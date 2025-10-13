@@ -1,8 +1,11 @@
-site_name: Basis Wiki
+site_name: bfz Onboarding
 
 nav:
   - Übersicht: index.md
-  - Topic 1: content/1.md
+  - Team: content/team.md
+  - Unterrichtzeiten: content/times.md
+  - Unterlagen: content/unterlagen.md
+  - Praktische Tipps: content/praktische_tipps.md
 
 
 theme:
