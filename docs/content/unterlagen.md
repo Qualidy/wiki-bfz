@@ -6,7 +6,13 @@ Auf [:fontawesome-solid-external-link: dieser Webseite](https://lms.bbw.de/cours
 
 ## Unterlagen anderer Klassen
 
+1) Wähle zunächst eines der Teams aus.
+
 ![](../assets/allteams.png)
+
+2) Wähle eine Kanal aus (achte dabei auf ausgeblendete Kanäle). Jeder Kanal ist eine eigene Klasse mit eigenen Unterlagen
+
+3) Wähle `Dateien` aus. Jede Klasse ist selbst für die Organisation ihrer Unterlagen verantwortlich.
 
 ![](../assets/teams_dateien.png)
 

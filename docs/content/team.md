@@ -1,4 +1,4 @@
-# Anprechparnter
+# Team
 
 | Team | Name | Mail im Teams-Chat des bfz | Anmerkungen |
 |-|-|-|-|

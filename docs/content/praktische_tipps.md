@@ -20,7 +20,6 @@
     ![](../assets/kontrolle_mini.png){ align=right }
     Wenn ein Teilnehmer seinen Bildschirm teilt, so kann über den Button `Übernehmen` ein Anfrage an den Teilnehmer gestellt werden, dass Du den Bildschirm steuern kannst. Diese muss noch von dem Teilnehmer bestätigt werden.
 
-
 !!! tip "Ist alles Installiert?"
     Hier ist die [:fontawesome-solid-external-link: Liste der Software](https://lms.bbw.de/mod/page/view.php?id=210255){ target=_blank rel="noopener noreferrer" }, die sich auf den Rechner der Teilnehmer befinden sollte.
     Wenn der Unterricht stark auf einer Software basiert, sollte schon einige Wochen vorher geprüft werden, ob diese Installation korrekt funktioniert. Dies kann z.B. geschehen, indem eine Mail an die Teilnehmer gesand wird, dass ein kleines Beispielskript und das Ergebnis einer erfolgreichen Durchführung, samt Mini-Anleitung enthält.
@@ -54,3 +53,25 @@
 !!! tip "Alle im Blick"
     ![mehr Kacheln](../assets/mehr_kacheln.png){ align=right }
     Um alle Teilnehmerkacheln gleichzeitig zu sehen, kann man die Anzahl der angezeigten Kacheln Unter `Ansicht` > `Max. Galariegröße auswählen` > `49 Personen` erhöhen. 
+
+!!! tip "Gruppenräume"
+    Als Eröffner des Meetings kannst du Gruppenräume erstellen!
+    
+    ![alt text](../assets/raume_erstellen_0.png)
+    
+    Um die Räume tatsächlich zu öffnen musst du noch auf den Button `Räume öffnen` klicken.
+    
+    ![alt text](../assets/raume_erstellen_1.png)
+
+!!! tip "Whiteboard"
+    
+    Du kannst direkt in Teams ein Whiteboard öffnen und mit den Teilnehmern nutzen,
+    indem du unter `Teilen` das `Microsoft Whiteboard` auswählst.
+
+    ![alt text](../assets/microsoft_whiteboard.png)
+
+    ---
+
+    Ein anderes Whiteboard-Tool ist [:fontawesome-solid-external-link: Excalidraw](https://excalidraw.com/){ target=_blank rel="noopener noreferrer" }. Auch hier kann ein Link über die :octicons-share-android-16:-Taste erstellt werden.     
+
+    ![alt text](../assets/excalidraw.png)
