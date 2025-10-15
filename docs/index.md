@@ -50,7 +50,7 @@ hide:
     * LZK mit den Teilnehmern schreiben.
     * Ergebnisse der LZK an [bfz und Viktor](content/team.md#team) senden.
 
-!!! danger "Krankheitsfall"
+!!! danger "Krankheitsfall des Dozenten"
 
     Direkt bei Daniel Schmidt telefonisch melden! <a href="tel: 4917641310888"> +49 176 41310888</a>
 
@@ -72,9 +72,5 @@ hide:
 </div>
 
 </div>
-
-TODO: Prüfung mit Burghard besprechen
-
-TODO: Alle Bücher zusammenlegen
 
 TODO: Mail von Burghard

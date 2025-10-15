@@ -81,21 +81,55 @@
 
     Dort findet man unter der Kachel "4. Kalender" die Kalender der Klassen. So kann man sehen, wo sich die Teilnehmer gerade inhaltlich befinden.
 
-!!! tip "Prpfungen und Abkürzungen"
-    Die Ausbildung der Teilnehmer dauert 2 Jahre.
+!!! tip "Prüfungen und Abkürzungen"
+    Die Ausbildung der Teilnehmer dauert 2 Jahre in Vollzeit und 3 Jahre in Teilzeit.
 
-    Es gibt zwei Arten von Auzubildende
+    Es gibt zwei Arten von Teilnehmer/innen:
+
+    * Umschüler
+    * Teilqualifikation (TQ)
 
     Die Ausbildung ist in 6 Module aufgeteilt.
 
-    Die ersten 5 Module bestehen aus ca. 8 Wochen Theorieunterricht (mit uns) und 6 Wochen Praxis in einem Praktikumsbetrieb (ohne uns).
-    Am Ende der Module schreiben alle Teilnehmer eine Modulprüfung. Für die TQ-Teilnehmer ist das Bestehen dieser Prüfungen verpflichtend, damit sie an den Abschlussprüfungen teilnehmen können. Bei diesen wird die Tertialprüfung stattdessen "Leistungskontrolle" genannt.
+    Die Module bestehen aus ca. 8 Wochen Theorieunterricht (mit uns) und 6 Wochen Praxis in einem Praktikumsbetrieb (ohne uns). Danach noch mal eine Woche Prüfungsvorbereitung (mit uns).
 
-    Im sechsten und letzten Modul ist der Anteild er Praxisphase größer. Nur die TQ-Teilnehmer schreiben 
+    Am Ende der Module findet für die Umschüler eine "Tertialprüfung" (TP) statt. Diese wird manchmal auch als "Modulprüfung" bezeichnet. Für die Teilnehmer der Teilqualifikation findet am Ende jedes Moduls eine "Kompetenzfeststellung" statt.
 
-    | Abkürzung | Bedeutung |
-    |-|-|
+    Nach den Modulen 3 und 6 findet jeweils eine Abschlussprüfung der IHK statt.
+
+    | Abkürzung | Bedeutung | Wann |
+    |-|-|-|
     | TQ | Teilqualifikation |
-    | TP | Terialprüfung (am Ende jedes Moduls, insgesamt 5-6) |
-    | AP1 | Zwischenprüfung der IHK am Ende von Modul 3 |
-    | AP2 | Abschlussprüfung der IHK am Ende von Modul 6 |
+    | TP | Terialprüfung | am Ende jedes Moduls für Umschüler |
+    | KFS | Kompetenzfeststellung | am Ende jedes Moduls für TQ-ler |
+    | AP1 | Zwischenprüfung der IHK | am Ende von Modul 3 |
+    | AP2 | Abschlussprüfung der IHK | am Ende von Modul 6 |
+
+    {{ link("Detailierte Infomationen für TQ-ler", "https://www.bbw-seminare.de/foerderungen/teilqualifizierungen/fachinformatikerin-fachrichtung-systemintegration-fisi-teilqualifizierung")}}
+
+!!! tip "peinliche Momente vermeiden"
+    Bevor du den Bildschirm teilst, solltest du sicherstellen, dass sich nichts darauf befindet, dass du nicht teilen möchtest😱
+
+!!! tip "Bildschirm vs. Fenster teilen"
+    Bei Teams kann man den Gesamten Bildschirm oder nur ein einzelnes Fenster teilen. Darauf muss der Teilnehmer hingewiesen werden. Vor allem dann, wenn wichtige Unterfenster auftauchen und sie bei einer einzelnen Fensterübergabe nicht sichtbar sind.
+
+!!! tip "Umfragen mit dem Chat"
+    Teams bietet leider keine Abstimmungsfunktion. Jedoch kann man die Optionen einer Abstimmung einfach in den Chat als einzelne nachrichten formulieren und die Teilnehmer bitten, bei ihrer favorisierten Option einen Daumen zu geben.
+
+!!! tip "Dateisharing"
+    Dateien können mit den Teilnehmern über das Register "Dateien" in Teams geteilt werden.
+
+!!! tip "Regelmäßiges Fehlen oder Stören"
+    Bei Auffälligkeiten bezüglich eines Teilnehmers (z.B. keine Rückmeldung im Unterricht, Störungen, andauernden technischen Problemen) soll eine Mail an das [Team von bfz](team.md) gehen.
+
+!!! tip "Gutes Miteinander"
+    Achtet darauf nicht zu viel Zeit mit privaten Themen zu vergeuden.
+
+    Das Angebot einzelnen Teilnehmern Nachhilfe anzubieten, wurde in der Vergangenheit von anderen Teilnehmern als Bevorziehung verstanden. Angebote immer für alle geben.
+
+!!! "Keine Buchempfehlungen"
+    Bitte keine Buchempfehleungen "Dieses Buch braucht ihr für den Unterricht" oder "Mit diesem Buch besteht ihr auf jeden Fall" geben.
+
+    Die Teilnehmer verstehen das leicht falsch als eine Verpflichtung dieses Buch kaufen zu müssen.
+
+    Höchsten können sehr vorsichtige Sätze fallen, wie: "Dieses Buch finde ich gut zu dem Thema".

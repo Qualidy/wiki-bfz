@@ -1,8 +1,6 @@
 # Lernzielkontrolle (LZK)
 
-Am Ende des jedes Unterrichts soll eine Lernzielkontrolle durchgeführt werden.
-
-Ich empfehle die LZK im Unterricht paralell zum 
+Am Ende jedes Themas soll eine Lernzielkontrolle durchgeführt werden.
 
 <div class="grid cards" markdown>
 
@@ -22,15 +20,19 @@ Ich empfehle die LZK im Unterricht paralell zum
 
     ---
 
-    * Single Choise
-    * Lückentexte füllen
+    * Single Choice
+    * Texte oder Bilder in Lücken einsetzen
+    * Texte in richtige Reichenfolge setzen
+
+    Möglich aber aufwendig:
+
     * Freitextantworten (Bepunktungsschema vorher überlegen)
 
 -   :simple-googleforms:{ .lg .middle } __Tools__
 
     ---
 
-    Bei der ersten Durchführung kann ein Tool wie Microsoft Forms oder Google Forms verwndet werden.
+    Bei der ersten Durchführung kann ein Tool wie Microsoft Forms oder Google Forms verwendet werden.
 
     Für weitere Durchführungen kann ein LZK im LMS angelegt werden. Diese wird von bfz-Team eingepflegt.
 
@@ -40,7 +42,11 @@ Ich empfehle die LZK im Unterricht paralell zum
 
     Erstelle eine Tabelle mit den Namen und Punktzahlen aller Teilnehmer.
 
-    Berechne das arithmetische Mittel und die Standardabweichung (der Grundgesamtheit) und den Variationskoeffizienten (der Grundgesamtheit)
+    Berechne folgende Kennzahlen:
+    
+    * arithmetische Mittel 
+    * die Standardabweichung (der Grundgesamtheit)
+    * Variationskoeffizienten (der Grundgesamtheit)
 
 -   :material-send-check:{ .lg .middle } __Ergebnisse weiterleiten__
 
@@ -51,7 +57,7 @@ Ich empfehle die LZK im Unterricht paralell zum
     * Tabelle mit Namen und Punktzahlen
     * Kennzahlen
     * Link zur LZK
-    * Einzelergebnisse alle Teilnehmer
+    * Einzelergebnisse aller Teilnehmer
 
 </div>
 
