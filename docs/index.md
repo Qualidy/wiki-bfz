@@ -13,8 +13,10 @@ hide:
 <div class="grid cards fancy grid--cols-1" markdown >
 - [:material-account-supervisor-outline: **Team**](content/team.md)
 - [:material-av-timer: **Unterrichtszeiten**](content/times.md)
+- [:material-clipboard-list: **Unterricht durchführen**](content/unterrichtsnachweise.md)
 - [:material-clipboard-search: **Unterlagen**](content/unterlagen.md)
 - [:material-fire: **Praktische Tipps**](content/praktische_tipps.md)
+- [:material-list-status: **Lernzielkontrollen**](content/lzk.md)
 </div>
 
 </div>
@@ -23,22 +25,20 @@ hide:
 
 ![](assets/Logo_Qualidy_cmyk.svg)
 
-Hier finden Sie wichtige Informationen zum Unterricht beim **bfz**.
-
-
 <!-- {{ youtube_video("https://www.youtube.com/embed/chPCpYNJe_Q?si=frU_Z_VwSGnPWEPF") }} -->
 
-!!! tip "Checkliste"
+!!! abstract "Checkliste"
 
     **Eine Woche vorher:**
 
-    * In welcher Klasse bin ich?
+    * Thema und Anforderungen bekannt? (wenn nein, im {{ link("LMS nachlesen", "https://lms.bbw.de/") }})
+    * In welcher Klasse bin ich? (wenn unbekannt: [Team](content/team.md#team) anschreiben)
     * Habe ich Zugang zu der Klasse? (wenn nein, [bfz](content/team.md#team) anschreiben)
     * Funktionieren alle Tools bei der Klasse?
 
     **Unterrichtsbeginn:**
 
-    * Raum rechtzeitig starten
+    * Raum rechtzeitig starten (VZ: 15 Minuten vorher, TZ: 30 Minuten vorher)
     * Innerhalb der ersten Stunde: [:fontawesome-solid-external-link: Anwesenheiten eintragen](https://unterrichtsnachweis-service.bfz.de/trainerportal/){ target=_blank rel="noopener noreferrer" }
 
     **Unterrichtsende:**
@@ -50,9 +50,15 @@ Hier finden Sie wichtige Informationen zum Unterricht beim **bfz**.
     * LZK mit den Teilnehmern schreiben.
     * Ergebnisse der LZK an [bfz und Viktor](content/team.md#team) senden.
 
-    ---
+!!! danger "Krankheitsfall"
 
-    [:fontawesome-solid-external-link: Lernmanagmentsystem (LMS) des bfz](https://lms.bbw.de/){ target=_blank rel="noopener noreferrer" }
+    Direkt bei Daniel Schmidt telefonisch melden! <a href="tel: 4917641310888"> +49 176 41310888</a>
+
+!!! info "Wichtig Links"
+
+    {{ link("Lernmanagmentsystem (LMS) des bfz", "https://lms.bbw.de/") }}
+
+    {{ link("Portal für Unterrichtsnachweise", "https://unterrichtsnachweis-service.bfz.de/trainerportal/") }}
 
 
 
@@ -67,25 +73,8 @@ Hier finden Sie wichtige Informationen zum Unterricht beim **bfz**.
 
 </div>
 
+TODO: Prüfung mit Burghard besprechen
 
-TODO: Unterlagen im LMS
+TODO: Alle Bücher zusammenlegen
 
-TODO: Bilder schwärzen
-
-TODO: Bilder mit Pfeilen versehen.
-
-TODO: Unterrichtsnachweis
-
-TODO: Tip: Unterräume öffnen
-
-TODO: Tip: Whiteboard in Teams benutzen
-
-TODO: LZK erstellen
-
-TODO: Unterrichtsnachweis
-
-TODO: Kalender der Klassen
-
-TODO: Lexikon der Prüfungen
-
-TODO: Unterricht starten/beenden (Anwesenheiten)
+TODO: Mail von Burghard

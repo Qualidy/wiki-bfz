@@ -18,7 +18,7 @@
 
 [:fontawesome-solid-external-link: Unterrichtszeiten von Vollzeitklassen](https://lms.bbw.de/pluginfile.php/283724/mod_resource/content/1/Zeitschema_IT-Berufe_VZ.pdf){ target=_blank rel="noopener noreferrer" }
 
-Bei der **TQ-Sachsen** handelt es sich um eine Vollzeitklasse, bei der der Unterricht um 7:30 Uhr beginnt und deerr Plan somit um eine halbe Stunde verschoben ist.
+Bei der **TQ-Sachsen** handelt es sich um eine Vollzeitklasse, bei der der Unterricht um 7:30 Uhr beginnt und der Plan somit um eine halbe Stunde verschoben ist.
 
 In der *flexiblen Selbstlernphase* ist der Trainer nicht anwesend. Hier soll den Teilnehmern eine Aufgabe gegeben werden.
 

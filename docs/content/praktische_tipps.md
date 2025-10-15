@@ -75,3 +75,27 @@
     Ein anderes Whiteboard-Tool ist [:fontawesome-solid-external-link: Excalidraw](https://excalidraw.com/){ target=_blank rel="noopener noreferrer" }. Auch hier kann ein Link über die :octicons-share-android-16:-Taste erstellt werden.     
 
     ![alt text](../assets/excalidraw.png)
+
+!!! tip "Kalender der Klassen"
+    Im {{link("LMS", "https://lms.bbw.de/")}} findet man Unter dem Reiter "IT-BERUFE" und dann "FACHINFORMATIKER/IN AE" oder "FACHINFORMATIKER/IN SI" eine Kachel zu jedem einzelnen Kurs. 
+
+    Dort findet man unter der Kachel "4. Kalender" die Kalender der Klassen. So kann man sehen, wo sich die Teilnehmer gerade inhaltlich befinden.
+
+!!! tip "Prpfungen und Abkürzungen"
+    Die Ausbildung der Teilnehmer dauert 2 Jahre.
+
+    Es gibt zwei Arten von Auzubildende
+
+    Die Ausbildung ist in 6 Module aufgeteilt.
+
+    Die ersten 5 Module bestehen aus ca. 8 Wochen Theorieunterricht (mit uns) und 6 Wochen Praxis in einem Praktikumsbetrieb (ohne uns).
+    Am Ende der Module schreiben alle Teilnehmer eine Modulprüfung. Für die TQ-Teilnehmer ist das Bestehen dieser Prüfungen verpflichtend, damit sie an den Abschlussprüfungen teilnehmen können. Bei diesen wird die Tertialprüfung stattdessen "Leistungskontrolle" genannt.
+
+    Im sechsten und letzten Modul ist der Anteild er Praxisphase größer. Nur die TQ-Teilnehmer schreiben 
+
+    | Abkürzung | Bedeutung |
+    |-|-|
+    | TQ | Teilqualifikation |
+    | TP | Terialprüfung (am Ende jedes Moduls, insgesamt 5-6) |
+    | AP1 | Zwischenprüfung der IHK am Ende von Modul 3 |
+    | AP2 | Abschlussprüfung der IHK am Ende von Modul 6 |

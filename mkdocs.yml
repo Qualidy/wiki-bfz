@@ -4,8 +4,10 @@ nav:
   - Übersicht: index.md
   - Team: content/team.md
   - Unterrichtzeiten: content/times.md
+  - Unterricht durchführen: content/unterrichtsnachweise.md
   - Unterlagen: content/unterlagen.md
   - Praktische Tipps: content/praktische_tipps.md
+  - Lernzielkontrolle: content/lzk.md
 
 
 theme:
