@@ -72,5 +72,3 @@ hide:
 </div>
 
 </div>
-
-TODO: Mail von Burghard
