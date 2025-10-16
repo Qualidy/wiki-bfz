@@ -35,6 +35,10 @@ def define_env(env):
             result +='{ target=_blank rel="noopener noreferrer" }'
         return result
 
+    @env.macro
+    def mail(mail="", text=None):
+        return f'<a href="mailto:{mail}">{text if text else mail}</a>'
+
 
 def youtube_video_admonition(inner_url, title='Video'):
     return f'''??? video "{title}"

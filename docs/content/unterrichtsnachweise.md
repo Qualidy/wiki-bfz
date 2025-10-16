@@ -21,7 +21,19 @@ Danach können Sie die passende Klasse auswählen. Starten Sie den Unterricht in
 
 ## Unterrichtsnachweis
 
+{{ link("Portal für Unterrichtsnachweise", "https://unterrichtsnachweis-service.bfz.de/trainerportal/") }}
+
+Bei der ersten Nutzung muss ein Passwort beantragt werden. Nutze dazu deine eigene Mail.
+Nutze die Mail des bfz nur, wenn du auf Zugriff auf diese eingerichtet hast.
+
 {{ youtube_video ("https://www.youtube.com/embed/iSqt8AvLWQI?si=dcaLX-RCtHBPHEmB") }}
+
+Die Lernfelder jedes Themas kann man im {{ link("Lernmanagmentsystem (LMS) des bfz", "https://lms.bbw.de/") }} nachlesen. Ein Thema kann mehrere Lernfelder haben.
+
+!!! tip "Abwesenheit von Teilnehmern"
+    Wenn ein Teilnehmer seine Abwesenheit anmeldet (z.B. "ich muss eine Stunde früher gehen, um zum Arzt zu gehen"), dann kannst du das als Bemerkung in Unterrichtsnachweisservice eintragen.
+
+    Weise den Teilnehmer darauf hin, dass er dies auch mit seinem Lernprozessbegleiter kommuniziert.
 
 ## Hospitation und Qualitätsprüfung
 

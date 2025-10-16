@@ -1,5 +1,10 @@
 # Praktische Tipps für den Unterricht
 
+!!! tip "Baby Steps beim Vortanzen"
+    Wenn Dinge auf dem Bildschirm vorgemacht werden, die von den Teilnehmern nachgemacht werden, dann sollte das sehr kleinschrittig passieren und häufig nachgefragt werden, ob die Schritte von allen Teilnehmern nachgemacht werden konnten.
+
+    Die Teilnehmer sind schnell abgehängt und haben oft wenig und teilweise gar keine Erfahrung im Umgang mit den Programmen, der IDE. Daher sollten auch so einfache Dinge, wie das Anlegen eines Ordners in VS-Code besser vorgemacht werden.
+
 !!! tip "Hände heben und senken"
 
     **Wozu:** Sichstellen, dass eine Aufgabe von **ALLEN** erfüllt ist, bevor weitergemacht wird.
@@ -11,10 +16,15 @@
 
     ![](../assets/hands.png)
 
-!!! tip "Baby Steps beim Vortanzen"
-    Wenn Dinge auf dem Bildschirm vorgemacht werden, die von den Teilnehmern nachgemacht werden, dann sollte das sehr kleinschrittig passieren und häufig nachgefragt werden, ob die Schritte von allen Teilnehmern nachgemacht werden konnten.
+!!! tip "Keine Vorstellungsrunden"
+    Die Teilnehmer kennen sich (teilweise seit mehreren Jahren). Die 10-te Vorstellungsrunde ist überhaupt nicht mehr spannend.
 
-    Die Teilnehmer sind schnell abgehängt und haben oft wenig und teilweise gar keine Erfahrung im Umgang mit den Programmen, der IDE. Daher sollten auch so einfache Dinge, wie das Anlegen eines Ordners in VS-Code besser vorgemacht werden.
+!!! tip "Office Account"
+    Bei der vom bfz bereitgestellten Mail + Passwort handelt es sich um einen Office-Account. Also Mail, Word, Excel usw. sind enthalten.
+
+!!! tip "Officeprodukte im Call gemeinsam bearbeiten"
+    ![alt text](../assets/teams_freigabe.png){ align=right }
+    Word, Excel, usw. Dokumente können über den Button ":fontawesome-regular-share-square: Freigeben" > ":material-microsoft-teams: Zusammenarbeiten in Teams"
 
 !!! tip "Bildschirmübernahme"
     ![](../assets/kontrolle_mini.png){ align=right }
@@ -50,6 +60,15 @@
     Vielen Dank
     ```
 
+!!! tip "keine anderen Programme"
+    Bitte Installiert **keine** neuen Programme mit den Teilnehmern auf ihren Rechnern.
+    
+    "Private"- oder "Community"-Angebote der Programme sind hier rechtlich falsch.
+
+    Wenn du ein bestimmtes neues Programm im Unterricht nutzen möchtest, stimme das bitte mit dem [Team des bfz](team.md) ab.
+
+    Die Liste alle Programme, die bei den Teilnehmern installiert sind, findest du {{ link("hier", "https://lms.bbw.de/mod/page/view.php?id=210255") }}.
+
 !!! tip "Alle im Blick"
     ![mehr Kacheln](../assets/mehr_kacheln.png){ align=right }
     Um alle Teilnehmerkacheln gleichzeitig zu sehen, kann man die Anzahl der angezeigten Kacheln Unter `Ansicht` > `Max. Galariegröße auswählen` > `49 Personen` erhöhen. 
@@ -81,6 +100,19 @@
 
     Dort findet man unter der Kachel "4. Kalender" die Kalender der Klassen. So kann man sehen, wo sich die Teilnehmer gerade inhaltlich befinden.
 
+!!! tip "Chat im Blick👁‍🗨"
+    Einige Teilnehmer nutzen größtenteils/ausschließlich den Chat zur Kommunikation mit dem Trainer/der Gruppe. Halte ihn also im Auge.
+
+    Gründe dafür sind häufig eine extreme Schüchternheit oder eine laute Umgebung.
+
+!!! tip "Keine Antwort ist nicht böse gemeint"
+    Wenn Teilnehmer nicht auf Fragen antworten, gibt es zwei Gründe: Schüchternheit und Unwissenheit.
+
+    Ein erprobtes und valides Mittel, um Teilnehmer hervorzulocken, ist diese direkt per Name aufzurufen.
+
+!!! tip "technische Probleme beim Teilnehmer"
+    Wenn ein Teilnehmer technische Probleme hat, soll dieser sich bei seinem Support, besser noch beim [Team vom bfz](team.md) melden. Dabei sollen sie immer ihre **SFI**-Nummer mitgeben, die auf ihrem Rechner steht.
+
 !!! tip "Prüfungen und Abkürzungen"
     Die Ausbildung der Teilnehmer dauert 2 Jahre in Vollzeit und 3 Jahre in Teilzeit.
 
@@ -104,6 +136,9 @@
     | KFS | Kompetenzfeststellung | am Ende jedes Moduls für TQ-ler |
     | AP1 | Zwischenprüfung der IHK | am Ende von Modul 3 |
     | AP2 | Abschlussprüfung der IHK | am Ende von Modul 6 |
+    | FISI | Fachinformatiker Systemintegration ||
+    | FIAE | Fachinformatiker Anwendungsentwickler ||
+    | SFI | Nummer des Teilnehmerrechners ||
 
     {{ link("Detailierte Infomationen für TQ-ler", "https://www.bbw-seminare.de/foerderungen/teilqualifizierungen/fachinformatikerin-fachrichtung-systemintegration-fisi-teilqualifizierung")}}
 
@@ -133,3 +168,37 @@
     Die Teilnehmer verstehen das leicht falsch als eine Verpflichtung dieses Buch kaufen zu müssen.
 
     Höchsten können sehr vorsichtige Sätze fallen, wie: "Dieses Buch finde ich gut zu dem Thema".
+
+!!! tip "keine Aufzeichnungen 📹🚫"
+    Es ist weder den Trainern, noch den Teilnehmern gestattet Aufzeichnungen vom Unterricht zumachen.
+    
+    Sollte ein Teilnehmer dies dennoch tun, ist der Unterricht sofort zu unterbrechen, bis die Aufnahme beendet ist. Sollte ein Teilnehmer wiederholt versuchen den Unterricht aufzunehmen, ist er dem Unterricht zu verweisen und es soll Kontakt zum [Support vom bfz](team.md) aufzunehmen.
+
+!!! tip "Pausenzeiten einhalten"
+    Die Teilnehmer haben vorgeschriebene Pausenzeiten, die eingehalten werden sollen.
+
+    An den Standorten der Teilnehmer haben alle Gruppen (nicht nur deine) gleichzeitig ihre Pausen. Dies erlaubt einen geregelten Arbeitsablauf an den Standorten.
+
+!!! tip "Keine Auskünfte geben, die man nicht geben kann"
+
+    Teilnehmer haben oft Fragen, die über den Unterrichtsstoff hinausgehen. Z.B. wie dir Prüfungen ablaufen werden.
+
+    Beantwortet diese Fragen nicht, sondern bittet die Teilnehmer diese Fragen direkt an das
+    [Team vom bfz](team.md) zu stellen.
+
+!!! tip "Umgang mit ChatGPT"
+    Den Teilnehmern ist ein guter Umgang mit ChatGPT und anderen LLMs beizubringen.
+    
+    Gut ist dabei der folgende Leitsatz:
+
+    Nutze die KI nicht, um Dinge machen zu lassen,
+    sondern, um sie zu verstehen!
+
+!!! tip "nicht bloßstellen😳"
+    Wenn ein Teilnehmer sich auffällig verhält (z.B. offensichtliche KI-Lösungen präsentiert oder nicht ansprechbar ist), nutzt zunächst die Möglichkeit eines zweier-Gesprächs. Eine Befragung vor der gesamten Klasse wird oft als Bloßstellung empfunden und ist somit wenig zielführend.
+
+    Die Teilnehmer haben oft ein persönliches Gepäck oder eine einnehmende familiäre Sitation, die sehr ablenkend für sie sind. Verständnis und ein respektvoller Umgang sind sind da echte Schlüssel für ein gutes Miteinander.
+
+!!! tip "Exakte Anwesenheiten erhalten"
+    In einem Teams-Call lässt sich unter "Personen" > ... > "Anwesenheiten herunterladen" Eine Excel mit den exakten Ein- und Ausloggzeiten herunterladen.
+
