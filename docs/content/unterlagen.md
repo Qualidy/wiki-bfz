@@ -41,3 +41,8 @@ Teilweise können im LMS auch Inhalte zu den Fächern gefunden werden. Gehe dazu
 ## Unterlagen von Qualidy
 
 Qualidy entwickelt derzeit auch Unterlagen. Dies ist noch in Arbeit.
+
+## IT-Berufe Podcast
+
+![alt text](../assets/it-berufe-potcast.png){ align=right }
+Der {{ link("IT-Berufe Podcast von Stefan Macke", "https://it-berufe-podcast.de/") }} bietet praxisnahe Tipps, Materialien und Erfahrungsberichte zur Ausbildung in IT-Berufen – ideal als ergänzende Ressource für Ausbilder und Trainer.
