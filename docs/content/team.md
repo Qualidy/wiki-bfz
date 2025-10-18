@@ -31,7 +31,16 @@ graph LR
 | Qualidy | Daniel Schmidt | | Per Mail über {{ mail("daniel.schmidt@qualidy.de") }} erreichbar |
 | Qualidy | Viktor Reichert | {{ mail("vc-vc-trai253@Schulung-bbw.de") }} | Per Mail nur über {{ mail("viktor.reichert@qualidy.de") }} erreichbar |
 
-!!! tip 
+<div class="grid cards" markdown>
+
+!!! tip "Favoriten anlegen"
     Füge die wichtigen Kontakte als Favorit hinzu.
 
     ![teams_fabvorite](../assets/favorites.png)
+
+!!! tip "Standorte Teilnehmer"
+    Die Teilnehmer befinden sich normalerweise an sog. "Standorten", die in ganz Deutschland liegen können.
+
+    ![alt text](../assets/standorte.png)
+
+</div>
