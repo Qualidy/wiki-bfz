@@ -89,6 +89,8 @@
 
 ## Didaktische Tipps
 
+<div class="grid cards" markdown>
+
 !!! tip "Keine Vorstellungsrunden"
     Die Teilnehmer kennen sich (teilweise seit mehreren Jahren). Die 10-te Vorstellungsrunde ist überhaupt nicht mehr spannend.
 
@@ -113,7 +115,7 @@
 
     Das Angebot einzelnen Teilnehmern Nachhilfe anzubieten, wurde in der Vergangenheit von anderen Teilnehmern als Bevorziehung verstanden. Angebote immer für alle geben.
 
-!!! "Keine Buchempfehlungen"
+!!! tip "Keine Buchempfehlungen"
     Bitte keine Buchempfehleungen "Dieses Buch braucht ihr für den Unterricht" oder "Mit diesem Buch besteht ihr auf jeden Fall" geben.
 
     Die Teilnehmer verstehen das leicht falsch als eine Verpflichtung dieses Buch kaufen zu müssen.
@@ -152,6 +154,8 @@
 
 !!! tip "Exakte Anwesenheiten erhalten"
     In einem Teams-Call lässt sich unter "Personen" > ... > "Anwesenheiten herunterladen" Eine Excel mit den exakten Ein- und Ausloggzeiten herunterladen.
+
+</div>
 
 ## Unterrichtsplanung
 
