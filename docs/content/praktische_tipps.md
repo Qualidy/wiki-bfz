@@ -66,7 +66,7 @@
     Teams bietet leider keine Abstimmungsfunktion. Jedoch kann man die Optionen einer Abstimmung einfach in den Chat als einzelne nachrichten formulieren und die Teilnehmer bitten, bei ihrer favorisierten Option einen Daumen zu geben.
 
 !!! tip "technische Probleme beim Teilnehmer"
-    Wenn ein Teilnehmer technische Probleme hat, soll dieser sich bei seinem Support, besser noch beim [Team vom bfz](team.md) melden. Dabei sollen sie immer ihre **SFI**-Nummer mitgeben, die auf ihrem Rechner steht.
+    Wenn ein Teilnehmer technische Probleme hat, soll dieser sich bei seinem Support, besser noch beim [Team vom bfz](team.md) melden. Dabei sollen sie immer ihre **SFI**-Nummer mitgeben, die auf ihrem Rechner steht, wenn vorhanden.
 
 !!! tip "Dateisharing"
     Dateien können mit den Teilnehmern über das Register "Dateien" in Teams geteilt werden.
