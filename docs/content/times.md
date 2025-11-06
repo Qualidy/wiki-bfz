@@ -26,7 +26,7 @@ In der *flexiblen Selbstlernphase* ist der Trainer nicht anwesend. Hier soll den
 
 | von  | bis | UE | Inhalt | Lehrer anwesend? |
 |-|-|-|-|:-:|
-| **8:00** | 8:30 | 1/3| Gleitzeitbeginn (Konferenz starten) | :material-close: |
+| **8:00** | 8:30 | 2/3| Gleitzeitbeginn (Konferenz starten) | :material-close: |
 | **8:30** | 9:30 | 4/3 | Unterricht | :material-check: |
 | 9:30 | 9:45 |  | Pause | :material-check: |
 | 9:45 | 11:15 |  2|Unterricht | :material-check: |
