@@ -72,3 +72,8 @@ hide:
 </div>
 
 </div>
+
+!!! quote "Datenschutzerklärung"
+    <embed src="assets/Datenschutzerklaerung_bfz_Partner_Referenten.pdf"
+       type="application/pdf"
+       style="width:100%;height:80vh;" />
