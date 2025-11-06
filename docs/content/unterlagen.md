@@ -92,10 +92,6 @@ Hier befinden sich die erwarteten Inhalte des Unterricht. Teilwese finden sich h
 | M6-7   | Optional: Kundenspezifische Systemintegration (FISI)                                                  |
 
 
-## Simple Club
-
-Auf [:fontawesome-solid-external-link: dieser Webseite](https://lms.bbw.de/course/view.php?id=4633&section=1){ target=_blank rel="noopener noreferrer" } kann man unter dem Link "Simple Club allgemein" Lerninhalte finden.
-
 ## Unterlagen anderer Klassen
 
 1) Wähle zunächst eines der Teams aus.
@@ -107,6 +103,16 @@ Auf [:fontawesome-solid-external-link: dieser Webseite](https://lms.bbw.de/cours
 3) Wähle `Dateien` aus. Jede Klasse ist selbst für die Organisation ihrer Unterlagen verantwortlich.
 
 ![](../assets/teams_dateien.png)
+
+## Bücher
+Wir dürfen euch die Bücker nicht direkt zur Verfügung stellen, doch man findet diese im Teams.
+
+Die Inhalte aus dem Westermann sollten als Prüfungsrelevant angesehen werden, wenn diese im LMS genannt werden.
+![Fundort Bücher](../assets/buecher.png)
+
+## Simple Club
+
+Auf [:fontawesome-solid-external-link: dieser Webseite](https://lms.bbw.de/course/view.php?id=4633&section=11){ target=_blank rel="noopener noreferrer" } kann man unter dem Link "Simple Club allgemein" Lerninhalte finden.
 
 ## Unterlagen im LMS
 Teilweise können im LMS auch Inhalte zu den Fächern gefunden werden. Gehe dazu ins Lernmodul und klappe den inneren Reiter aus.

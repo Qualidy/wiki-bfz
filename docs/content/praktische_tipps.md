@@ -34,6 +34,8 @@
     ![mehr Kacheln](../assets/mehr_kacheln.png){ align=right }
     Um alle Teilnehmerkacheln gleichzeitig zu sehen, kann man die Anzahl der angezeigten Kacheln Unter `Ansicht` > `Max. Galariegröße auswählen` > `49 Personen` erhöhen. 
 
+    Weiterhin kann man mit ++ctrl+minus++ im Teams-Anruf herauszoomen. Das sorgt dafür, dass man die Namen der Teilnehmer wieder erkennt. Oder man drückt ++ctrl++ und dreht mit dem Mausrad.
+
 !!! tip "Gruppenräume"
     Als Eröffner des Meetings kannst du Gruppenräume erstellen!
     
