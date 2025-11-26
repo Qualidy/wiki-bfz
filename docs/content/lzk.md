@@ -2,7 +2,11 @@
 
 Am Ende jedes Themas soll eine Lernzielkontrolle durchgeführt werden.
 
-<div class="grid cards" markdown>
+{{ youtube_video("https://www.youtube.com/embed/frx1799lYbs?si=P6N4m7VI4RSWjTnj", "LZK erstellen") }}
+
+{{ youtube_video("https://www.youtube.com/embed/T5vN77BJ8Oo?si=rI2jH6tx3ZA85SYx", "Rückmeldung erstellen") }}
+
+<div class="grid cards grid--cols-1" markdown>
 
 -   :material-clock-fast:{ .lg .middle } __Dauer__
 
@@ -28,40 +32,29 @@ Am Ende jedes Themas soll eine Lernzielkontrolle durchgeführt werden.
 
     * Freitextantworten (Bepunktungsschema vorher überlegen)
 
--   :simple-googleforms:{ .lg .middle } __Tools__
+-   :simple-googleforms:{ .lg .middle } __Vorlage anfragen__
 
     ---
 
-    Bei der ersten Durchführung kann ein Tool wie Microsoft Forms oder Google Forms verwendet werden.
+    Wenn du eine LZK erstellen möchte, erhälst du von [Daniel oder Viktor](team.md) eine Vorlage.
 
-    Für weitere Durchführungen kann ein LZK im LMS angelegt werden. Diese wird von bfz-Team eingepflegt.
+    Bitte schreibe diese beiden an, Teile ihnen dein Thema mit und sie werden dir eine Vorlage in Microsoft Forms senden.
 
--   :material-scale-balance:{ .lg .middle } __Ergebnisse berechnen__
-
-    ---
-
-    Erstelle eine Tabelle mit den Namen und Punktzahlen aller Teilnehmer.
-
-    Berechne folgende Kennzahlen:
-    
-    * arithmetische Mittel 
-    * die Standardabweichung (der Grundgesamtheit)
-    * Variationskoeffizienten (der Grundgesamtheit)
+    Nutze IMMER die Vorlage! Erstelle keine eigenen Forms für die LZK.
 
 -   :material-send-check:{ .lg .middle } __Ergebnisse weiterleiten__
 
     ---
 
-    Leite alle Ergebnisse an das [Team des bfz und an Viktor](team.md) weiter.
+    Nutze das folgende Tool, um alle Ergebnisse zu berechnen und die Texte für die Mails zu erstellen und weiterzuleiten:
 
-    * Tabelle mit Namen und Punktzahlen
-    * Kennzahlen
-    * Link zur LZK
-    * Einzelergebnisse aller Teilnehmer
+    {{ link("Tool zum erstellen der Mailtexte", "https://mailhelperlzk--nokix.on.websim.com/") }}
 
 </div>
 
 !!! example "Beispiele"
+
+    Hier findest du ein paar LZKs an denen du dich orientieren kannst:
 
     {{ link("LZK Powershell", "https://forms.office.com/e/sJMvUwmKXY")}}
 

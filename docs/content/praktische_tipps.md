@@ -18,6 +18,8 @@
 
     **Achtung:** Wenn die Hand eines Teilnehmers gehoben ist und er dann spricht, wird die Hand automatisch wieder gesenkt! Der Teilnehmer muss dann ans erneute heben errinnert werden.
 
+    Oft müssen die Teilnehmer dazu erzogen werden diese Kultur konsequent durchzuführen.
+
     ![](../assets/hands.png)
 
 !!! tip "Bildschirmübernahme"
@@ -88,6 +90,11 @@
 
     Hier kannst du nun auswählen, welche Kanäle angezeigt werden.
     ![alt text](../assets/teams_anpassen_3.png)
+
+!!! tip "Trainer Kamera an"
+    Als Trainer haben wir die Kamera (außer in den Pausen) an. Auch in Selbstlernphasen zeigen wir den Teilnehmern so unsere Verfügbarkeit an. 
+
+    Die Teilnehmer können wir nicht dazu verpflichten Ihre Kamera an zu machen, jedoch können wir sie dazu animieren.
 
 ## Didaktische Tipps
 
@@ -187,6 +194,7 @@
     | FISI | Fachinformatiker Systemintegration ||
     | FIAE | Fachinformatiker Anwendungsentwickler ||
     | SFI | Nummer des Teilnehmerrechners ||
+    | LPB | Lernprozessbegleiter ||
 
     {{ link("Detailierte Infomationen für TQ-ler", "https://www.bbw-seminare.de/foerderungen/teilqualifizierungen/fachinformatikerin-fachrichtung-systemintegration-fisi-teilqualifizierung")}}
 

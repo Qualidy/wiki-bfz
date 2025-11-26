@@ -1,5 +1,9 @@
 # Trainingszeiten
 
+{{ youtube_video("https://www.youtube.com/embed/mlFrVUesClM?si=h45iVlZ-rggwzH0D", title="Trainingszeiten") }}
+
+{{ youtube_video("https://www.youtube.com/embed/pGuzQMbsYao?si=6b8dvlEojAj7qo6B", title="Ideen für die Übungsaufgaben in der Selbstlernphase")}}
+
 ## Vollzeit
 
 | von  | bis | UE | Inhalt | Lehrer anwesend? |

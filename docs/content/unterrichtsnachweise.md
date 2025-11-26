@@ -37,6 +37,7 @@ Nutze die Mail des bfz nur, wenn du auf Zugriff auf diese eingerichtet hast.
 Die Lernfelder jedes Themas kann man im {{ link("Lernmanagmentsystem (LMS) des bfz", "https://lms.bbw.de/") }} nachlesen. Ein Thema kann mehrere Lernfelder haben.
 
 !!! tip "Abwesenheit von Teilnehmern"
+    {{ youtube_video("https://www.youtube.com/embed/71-koMkn6IU?si=sFvHjNnyl-ItcyKE", tabs=2)}}
     Wenn ein Teilnehmer seine Abwesenheit anmeldet (z.B. "ich muss eine Stunde früher gehen, um zum Arzt zu gehen"), dann kannst du das als Bemerkung in Unterrichtsnachweisservice eintragen.
 
     Weise den Teilnehmer darauf hin, dass er dies auch mit seinem Lernprozessbegleiter kommuniziert.
@@ -49,6 +50,8 @@ Die Lernfelder jedes Themas kann man im {{ link("Lernmanagmentsystem (LMS) des b
     Wenn die Teilnehmer den ganzen Tag mit einer Aufgabe beschäftigt sind oder einen Test/Prüfung schreiben und kein aktiver Unterricht stattfindet, wähle **Arbeitsauftrag/Testung - Mitarbeit nicht beurteilbar** aus.
 
 ## Hospitation und Qualitätsprüfung
+
+{{ youtube_video("https://www.youtube.com/embed/UvPpQSmoJhc?si=JyOlqG_NVMfnCA9M", title="Hospitation und Qualitätsprüfung")}}
 
 Am Unterricht kann jederzeit ein Mitglied des [Teams](team.md) teilnehmen. Auch eine Befragung der Teilnehmer zum Unterricht (inhaltlich und didaktisch) kann jederzeit stattfinden. Ziel ist eine stetige Verbesserung des Unterrichts.
 
