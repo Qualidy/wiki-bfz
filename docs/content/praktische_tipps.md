@@ -6,6 +6,8 @@
     Bei der vom bfz bereitgestellten Mail + Passwort handelt es sich um einen Office-Account. Also Mail, Word, Excel usw. sind enthalten.
 
 !!! tip "Officeprodukte im Call gemeinsam bearbeiten"
+    {{ youtube_video("https://www.youtube.com/embed/PKsfUKKJQ94?si=eTcwA5YyoPlCxXvE", tabs=2)}}
+
     ![alt text](../assets/teams_freigabe.png){ align=right }
     Word, Excel, usw. Dokumente können über den Button ":fontawesome-regular-share-square: Freigeben" > ":material-microsoft-teams: Zusammenarbeiten in Teams"
 
@@ -125,7 +127,7 @@
     Das Angebot einzelnen Teilnehmern Nachhilfe anzubieten, wurde in der Vergangenheit von anderen Teilnehmern als Bevorziehung verstanden. Angebote immer für alle geben.
 
 !!! tip "Keine Buchempfehlungen"
-    Bitte keine Buchempfehleungen "Dieses Buch braucht ihr für den Unterricht" oder "Mit diesem Buch besteht ihr auf jeden Fall" geben.
+    Bitte **keine** Buchempfehleungen wie "Dieses Buch braucht ihr für den Unterricht" oder "Mit diesem Buch besteht ihr auf jeden Fall" geben.
 
     Die Teilnehmer verstehen das leicht falsch als eine Verpflichtung dieses Buch kaufen zu müssen.
 
@@ -157,12 +159,12 @@
     sondern, um sie zu verstehen!
 
 !!! tip "nicht bloßstellen😳"
-    Wenn ein Teilnehmer sich auffällig verhält (z.B. offensichtliche KI-Lösungen präsentiert oder nicht ansprechbar ist), nutzt zunächst die Möglichkeit eines zweier-Gesprächs. Eine Befragung vor der gesamten Klasse wird oft als Bloßstellung empfunden und ist somit wenig zielführend.
+    Wenn ein Teilnehmer sich auffällig verhält (z.B. offensichtliche KI-Lösungen präsentiert oder nicht ansprechbar ist), nutzt zunächst die Möglichkeit eines Zweier-Gesprächs. Eine Befragung vor der gesamten Klasse wird oft als Bloßstellung empfunden und ist somit wenig zielführend.
 
-    Die Teilnehmer haben oft ein persönliches Gepäck oder eine einnehmende familiäre Sitation, die sehr ablenkend für sie sind. Verständnis und ein respektvoller Umgang sind sind da echte Schlüssel für ein gutes Miteinander.
+    Die Teilnehmer haben oft ein persönliches Gepäck oder eine einnehmende familiäre Sitation, die sehr ablenkend für sie sind. Verständnis und ein respektvoller Umgang sind sind da der Schlüssel für ein gutes Miteinander.
 
 !!! tip "Exakte Anwesenheiten erhalten"
-    In einem Teams-Call lässt sich unter "Personen" > ... > "Anwesenheiten herunterladen" Eine Excel mit den exakten Ein- und Ausloggzeiten herunterladen.
+    In einem Teams-Call lässt sich unter "Personen" > ... > "Anwesenheiten herunterladen" Eine Excel mit den exakten Ein- und Ausloggzeiten herunterladen. Die ist nur möglich, wenn ihr selbst den Unterricht gestartet habt.
 
 </div>
 
@@ -178,7 +180,7 @@
 
     Die Ausbildung ist in 6 Module aufgeteilt.
 
-    Die Module bestehen aus ca. 8 Wochen Theorieunterricht (mit uns) und 6 Wochen Praxis in einem Praktikumsbetrieb (ohne uns). Danach noch mal eine Woche Prüfungsvorbereitung (mit uns).
+    Die Module bestehen aus ca. 8 Wochen Theorieunterricht (mit uns Trainern) und 6 Wochen Praxis in einem Praktikumsbetrieb (ohne uns Trainer). Danach noch mal eine Woche Prüfungsvorbereitung (mit uns Trainer).
 
     Am Ende der Module findet für die Umschüler eine "Tertialprüfung" (TP) statt. Diese wird manchmal auch als "Modulprüfung" bezeichnet. Für die Teilnehmer der Teilqualifikation findet am Ende jedes Moduls eine "Kompetenzfeststellung" statt.
 
@@ -242,5 +244,6 @@
     "Private"- oder "Community"-Angebote der Programme sind hier rechtlich falsch.
 
     Wenn du ein bestimmtes neues Programm im Unterricht nutzen möchtest, stimme das bitte mit dem [Team des bfz](team.md) ab.
+    Sei jedoch vorgewarnt, dass es höchstwahrscheinlich nicht zu einer Installation von neuen Werkzeugen kommen wird. Finde also am besten einen Weg mit den bestehenden Mitteln zurecht zu kommen.
 
     Die Liste alle Programme, die bei den Teilnehmern installiert sind, findest du {{ link("hier", "https://lms.bbw.de/mod/page/view.php?id=210255") }}.
