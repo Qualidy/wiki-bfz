@@ -1,13 +1,16 @@
 site_name: bfz Onboarding
 
 nav:
-  - Übersicht: index.md
-  - Team: content/team.md
-  - Unterrichtzeiten: content/times.md
-  - Unterricht durchführen: content/unterrichtsnachweise.md
-  - Unterlagen: content/unterlagen.md
-  - Praktische Tipps: content/praktische_tipps.md
-  - Lernzielkontrolle: content/lzk.md
+  - Hauptseite: index.md
+  - Willkommen: content/1_welcome.md
+  - Login: content/2_login.md
+  - Erklärung zur Ausbildung der Teilnehmer: content/3_erklaerungen_ausbildung.md
+  - Unterricht durchführen: content/4_unterrichtsdurchfuehrung.md
+  - Unterricht planen: content/5_unterrichtsdurchfuehrung.md
+  - Technische Hinweise: content/6_technische_hinweise.md
+  - Didaktische Hinweise: content/7_didaktische_hinweise.md
+  - Lernzielkontrollen: content/8_lzk.md
+  - Abschließende Hinweise: content/9_abschliessende_hinweise.md
 
 
 theme:
@@ -48,6 +51,8 @@ markdown_extensions:
       generic: true
   - pymdownx.highlight:
       linenums: true
+  - pymdownx.tasklist:
+      clickable_checkbox: true
 
 extra_css:
   - stylesheets/logo.css
