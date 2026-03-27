@@ -1,5 +1,7 @@
 # Technische Hinweise
 
+Zur didaktischen Abwechslung jetzt mal etwas Text 😉
+
 !!! tip "Alle im Blick"
     ![mehr Kacheln](../assets/mehr_kacheln.png){ align=right }
     Um alle Teilnehmerkacheln gleichzeitig zu sehen, kann man die Anzahl der angezeigten Kacheln Unter `Ansicht` > `Max. Galariegröße auswählen` > `49 Personen` erhöhen. 

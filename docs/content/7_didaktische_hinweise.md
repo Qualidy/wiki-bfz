@@ -1,5 +1,7 @@
 # Didaktische Hinweise
 
+Und damit man sich mehr auf die Videos freut, noch ein wenig Text 😘
+
 !!! tip "Keine Vorstellungsrunden"
     Die Teilnehmer kennen sich (teilweise seit mehreren Jahren). Die 10-te Vorstellungsrunde ist überhaupt nicht mehr spannend.
 
@@ -54,6 +56,3 @@
     Die Teilnehmer verstehen das leicht falsch als eine Verpflichtung dieses Buch kaufen zu müssen.
 
     Höchsten können sehr vorsichtige Sätze fallen, wie: "Dieses Buch finde ich gut zu dem Thema".
-
----
-
