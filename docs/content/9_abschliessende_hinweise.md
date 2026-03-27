@@ -4,6 +4,9 @@
 
 Man kann Teams übrigens auch auf dem Handy installieren 😉
 
+!!! danger "Spamordner beachten"
+    Leider kommt uns immer wieder zu Ohren, dass unsere Mails im Spam landen. Bitte beachte das uns setzt ggf. eine Regel bei dir, die Mails von `@qualidy.de` erlaubt.
+
 {{ youtube_video("https://www.youtube.com/embed/HubAzwPVLw8?si=3V4c8LI4MN6WMR7d", "Fehler sind normal & Hospitation", expanded=True) }}
 
 {{ youtube_video("https://www.youtube.com/embed/WcLfYbXTkKE?si=1cc0yK55XpN9Ve-g", "Hinweis zu den Rechnungen", expanded=True) }}
