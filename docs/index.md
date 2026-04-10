@@ -14,7 +14,7 @@ hide:
 - [:material-login-variant: **Login**](content/2_login.md)
 - [:material-account-supervisor-outline: **Erklärung zur Ausbildung der Teilnehmer**](content/3_erklaerungen_ausbildung.md)
 - [:material-human-male-board: **Unterricht durchführen**](content/4_unterrichtsdurchfuehrung.md)
-- [:material-clipboard-list: **Unterricht planen**](content/5_unterrichtsdurchfuehrung.md)
+- [:material-clipboard-list: **Unterricht planen**](content/5_unterrichtsplanung.md)
 - [:material-wrench-cog: **Technische Hinweise**](content/6_technische_hinweise.md)
 - [:material-fire: **Didaktische Hinweise**](content/7_didaktische_hinweise.md)
 - [:material-list-status: **Lernzielkontrollen**](content/8_lzk.md)
