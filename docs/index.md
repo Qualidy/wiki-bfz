@@ -55,6 +55,6 @@ hide:
 | bfz | Carola Dyba | {{ mail("carola.dyba@bfz.de") }} | |
 | bfz | Burghard Gabsch | {{ mail("burghard.gabsch@bfz.de") }} | |
 | bfz | Rudolf Schmidkonz | {{ mail("rudolf.schmidkonz@bfz.de") }} | |
-| bfz | Technischer Support des bfz | {{ mail("michaela.schwaerzler@bfz.de")}} | Per Mail über {{ mail("loius@support.bbw.de") }} erreichbar | 
+| bfz | Technischer Support des bfz | {{ mail("michaela.schwaerzler@bfz.de")}} | Per Mail über {{ mail("louis@support.bbw.de") }} erreichbar | 
 | Qualidy | Daniel Schmidt | {{ mail("vc-vc-trai307@Schulung-bbw.de") }}  | Per Mail nur über {{ mail("daniel.schmidt@qualidy.de") }} erreichbar |
 | Qualidy | Viktor Reichert | {{ mail("vc-vc-trai253@Schulung-bbw.de") }} | Per Mail nur über {{ mail("viktor.reichert@qualidy.de") }} erreichbar |
