@@ -33,10 +33,106 @@ benötigten Inhalte tatsächlich unterrichtet wurden.
     * {{ link("IT-Berufe Fachstufe Technische IT-Berufe 6 - 9 -Arbeitsbuch, 2. Auflage, 2026 (Erscheint im April 2026)","https://www.westermann.de/artikel/978-3-14-220045-3/IT-Berufe-Fachstufe-Technische-IT-Berufe-Lernfelder-6-9") }}, 978-3-14-220045-3										
     * {{ link("Einstieg in C# mit Visual Studio 2022, 8. Auflage, 2026","https://www.rheinwerk-verlag.de/einstieg-in-c-sharp-mit-visual-studio/") }}, 978-3-367-10849-7										
     * {{ link("IT-Berufe Fachstufe II Fachinformatiker/-in Systemintegration, Fachinformatiker/-in Digitale Vernetzung Lernfelder 10-12, 1. Auflage, 2023","https://www.westermann.de/artikel/978-3-14-220108-5/IT-Berufe-Fachstufe-II-Fachinformatikerin-Systemintegration-Fachinformatikerin-Digitale-Vernetzung-Lernfelder-10-12") }}, 978-3-14-220108-5										
-    * {{ link("IT-Berufe Lernsituationen Fachstufe II Fachinformatiker/-in Systemintegration, Fachinformatiker/-in Digitale Vernetzung Lernfelder 10-12, 1. Auflage, 2024","https://www.westermann.de/artikel/978-3-14-220116-0/IT-Berufe-Lernsituationen-Fachstufe-II-Fachinformatikerin-Systemintegration-Fachinformatikerin-Digitale-Vernetzung-Lernfelder-10-12") }}, 978-3-14-220116-0										
+    * {{ link("IT-Berufe Lernsituationen Fachstufe II Fachinformatiker/-in Systemintegration, Fachinformatiker/-in Digitale Vernetzung Lernfelder 10-12, 1. Auflage, 2024","https://www.westermann.de/artikel/978-3-14-220116-0/IT-Berufe-Lernsituationen-Fachstufe-II-Fachinformatikerin-Systemintegration-Fachinformatikerin-Digitale-Vernetzung-Lernfelder-10-12") }}, 978-3-14-220116-0		
+
+    Weiterhin sind die Bücher der {{ link("Europa Lehrmittel", "https://www.europa-lehrmittel.de/Ausbildung/IT-Berufe/?p=1&order=name-asc") }} sehr zu empfehlen.								
 
 {{ youtube_video("https://www.youtube.com/embed/JJNWwhXDkhg?si=t31pdl9IoDZhSvvM", "Alte Unterrichtsunterlagen finden", expanded=True) }}
 
+Da jede Klasse die Unterlagen ja verschieden strukturiert, ist es zugegebener Maßen sehr schwer effektiv alte Unterlagen zu finden. Schreib gerne Viktor an und nenne ihm das Fach, zu dem du Unterlagen suchst, er kann dir dann eine passende Linksammlung zusammenstellen, sodass du direkt in den passenden Ordnern landen wirst. Wir dürfen diese Linksammlung hier jedoch nicht hier öffentlich zur Verfügung stellen.
+
+Früher hatten einige der Module noch andere Bezeichnungen. Diese kannst du hier nachlesen:
+
+??? quote "Alte Bezeichnungen der Fächer"
+
+    | Alte Bezeichnung | Neue Bezeichnung |
+    |---|---|
+    | M1-1 WISO: Berufsbildung, Arbeits u. Tarifrecht | M1.1 WISO: Berufsbildung, Arbeits u. Tarifrecht |
+    | M1-2 WISO: Aufbau und Organisation des Betriebs | M1.2 WISO: Aufbau und Organisation des Betriebs |
+    | M1-3 Gesetzliche Grundlagen: Arbeitsschutz und Arbeitssicherheit | M1.3 IT-Security: Grundlagen - Arbeitsschutz u. -sicherheit |
+    | M1-4 Gesetzliche Grundlagen: Schutzbedarfsanalyse (Grundlagen IT-Sicherheit) | M1.4 IT-Security: Grundlagen - Informationssicherheit (Schutzbedarfsanalyse) |
+    | M1-5 Grundlagen der Informatik – Physik / Mathematik / Elektrotechnik | M1.5 Informatik: Grundlagen - Physik & Mathematik & E-Technik |
+    | M1-6 Hardware: Bestandteile von PC-Systemen | M1.6 Hardware: Bestandteile von PC-Systemen |
+    | M1-7 Datensicherung/Datenintegrität | M1.7 IT-Security: Grundlagen - Datensicherheit & -Sicherung |
+    | M1-8 Netzwerke: Grundlagen Netzwerke | M1.8 Netzwerke: Grundlagen |
+    | M1-9 Software: Lizenzierungsarten | M1.9 Software: Lizenzierungsarten |
+    | M1-10 Virtualisierung Grundlagen | M1.10 Software: Grundlagen - Virtuelle Systeme |
+    | M1-11 Windows konfigurieren und installieren | M1.11 Software: Windows Install & Konfig [Teil 1] |
+    | M1-12 Wiederholung Modul 1: IT-Systeme konfigurieren | M1.20 Wiederholung Lernmodul 1, Leistungskontrolle |
+    | M2-2 IT-Sicherheit: Schutzbedarfsanalyse | M2.1 IT-Security: Schutzbedarfsanalyse (TOM) |
+    | M2-3 IT-Arbeitsplätze einrichten (kaufm. / techn. Projektmanagement klassisch) | M2.2 Projekt: Planung IT-Arbeitsplatz (Projektmanagement klassisch) |
+    | M2-4 Netzwerke konfigurieren (Topologien, Cu/GF, Layer-3-Geräte, VLAN), Visio | M2.3 Netzwerke: Topologien & -Komponenten |
+    | M2-5 Netzwerke konfigurieren (DNS, DHCP, Protokolle), Funknetze | M2.4 Netzwerke: Protokolle & Funknetze |
+    | M2-6 Windows Serverbetriebssysteme konfigurieren / Virtualisierung (Hyper-V) | M2.5 Software: Windows-Server - Install & Konfig [Teil 2] |
+    | M2-7 Fehleranalyse, Fehlerbeseitigung \| Störungsmeldungen aufnehmen u. Analysieren / Support / ITIL / ITSM | M2.6 Admin: Grundlagen - Service- Management (Support, Fehlerbehandlung, ITIL, ITSM) |
+    | M2-8 Projektwoche Microcontrollersysteme (Arduino) | M2.7 Informatik: Microcontrollersysteme (Projektwoche Arduino) |
+    | M2-9 Linux-Systeme (Ubuntu) | M2.8 Software: Linux-Server - Install & Konfig [Teil 3] (Ubuntu) |
+    | M2-10 Theor. Grundlagen der Programmierung / Programmiersprachen auswählen | M2.9 Program: Grundlagen - Sprachen & Entwicklung |
+    | M2-11 Wiederholung TP2/KFS2 Vorbereitung | M2.20 Wiederholung Lernmodul 2, Leistungskontrolle |
+    | M3-2 Programmiersprache auswählen und unterscheiden / Grundlagen der Programmierung | M3.1 Program: Kontrollstrukturen, erste Anwendung Phyton |
+    | M3-3 Einführung C# | M3.2 Program: C# Einführung |
+    | M3-4 Programmierung (Dateisystemarbeit, Automatisierung, administrative Aufgaben) | M3.3 Program: PowerShell Einführung (administrative Aufgaben) |
+    | M3-5 IT-Sicherheit (Benutzerkonten, Richtlinien, AD), FW auf BS- und NW-Ebene, Computerschädlinge | M3.4 IT-Security: Schutzbedarfsanalyse (Benutzerkonten, Richtlinien, AD) |
+    | M3-6 Container-Betriebssysteme | M3.5 Software: Container-Betriebssysteme - Install & Konfig [Teil 4] |
+    | M3-7 WiSo: Beschaffung und Vertrieb, Leistungsabschluss | M3.6 WiSo: Beschaffung - Vertrieb - Leistungsabschluss |
+    | M3-8 WiSo: Systemübergabe, Mitarbeiterschulungen | M3.7 WiSo: Systemübergabe - Mitarbeiterschulungen |
+    | M3-9 Datenbanksysteme differenziert anwenden und absichern | M3.8 Daten: Datenbank - Grundlagen & DB-Systeme |
+    | M3-10 Datenbanken SQL | M3.9 Daten: Datenbank - SQL anwenden |
+    | M3-11 Webserver und Webseiten (HTML, PHP, SQL) | M3.10 Daten: Datenbank - Webseiten erstellen (HTML, PHP, SQL) |
+    | M3-12 Intensivierung Linux (OSI-Layer 5-7) | M3.11 Software: Linux-Server - Intensivierung [Teil 5] (OSI-Layer 5-7) |
+    | M3-13 Wiederholung/Gesamtüberblick zur Prüfung 3 | M3.20 Wiederholung Lernmodul 3, Leistungskontrolle |
+    | M4-2 Daten aufbereiten (Excel-Makros und Python), Pivotabellen | M4.1 Daten: Bewerten \| Aufbereiten \| Auslesen |
+    | M4-3 Versionierung von Softwareprodukten | M4.2 Program: Versionierung - Grundlagen & Einführung GIT |
+    | M4-4 Algorithmen erstellen - Programmierung (OOP) | M4.3 Program: Paradigmen & Objektorientierte Programmierung [Teil 1] |
+    | M4-5 Systemüberwachung und Ressourcenverwaltung | M4.4 Admin: Systemüberwachung u. Ressourcenverwaltung |
+    | M4-6 Domänennetzwerke (Fileserver, Berechtigungen) Powershell Intensivierung | M4.5 Admin: Netzwerke u. Dienste - Install & Konfig & Automation (Powershell) [TZ] |
+    | M4-7 Speicherlösungen / Cloudsysteme - CPS | M4.6 Informatik: Cyber-physische-Systeme - Grundlagen |
+    | M4-8 Cyber Physische Systeme planen und entwickeln | M4.7 Informatik: Cyber-physische-Systeme - Planen & Entwickeln |
+    | M4-9 Softwarediagramme erweitert | M4.8 Program: Softwarediagramme vertiefen (UML) |
+    | M4-10 Projektdokumentation (TQ Thema) | M4.9 Projekt: Dokumentation [TQ] |
+    | neues Thema | M4.10 Program: Paradigmen & Objektorientierte Programmierung [Teil 2] |
+    |  | M4.11 Informatik: Microcontrollersysteme (Arduino) [Teil 2 für TZ] |
+    | neues Thema | M4.19 Prüfungsvorbereitung AP1 |
+    | M4-11 Wiederholung und Prüfungsvorbereitung | M4.20 Wiederholung Lernmodul 4, Lernzielkontrolle |
+    | M5-1 Agiles Projektmanagement (Scrum oder Prince2) | M5.1 Projekt: Agiles PM (Scrum, Prince2) |
+    | M5-2 Projektdokumentation | M5.2 Projekt: Dokumentation (IHK - Betriebliche Projektarbeit) |
+    | M5-3a FIAE: Administration-Webserver | M5.3a Admin: Web-Server - Install & Konfig [FIAE] |
+    | M5-3b FISI: Administration-Linux-Systeme | M5.3b Admin: Linux-Server - provide & automate [FISI] |
+    | M5-4a FIAE: Content-Management-Systeme, CSS, UX | M5.4a Program: CMS - Install & Konfig [FIAE] |
+    | M5-4b FISI: IOT-Systeme, Industrie 4.0 | M5.4b Admin-IOT: Operational- vs. Information Techn. [FISI] |
+    | M5-5 Domänennetzwerke | M5.5 Admin: Netzwerke u. Dienste - Install & Konfig & Automation |
+    | M5-6a FIAE: Programmierung: Testkonzepte, Transferformate | M5.6a Program: Testkonzepte, Transferformate [FIAE] |
+    | M5-6b FISI: IT-Sicherheitssysteme implementieren | M5.6b IT-Security: IT-Sicherheitssysteme implementieren [FISI] |
+    | M5-7 Künstliche Intelligenz | M5.7a Informatik: Künstliche Intelligenz [FIAE] |
+    | neues Thema | M5.7b Informatik: Künstliche Intelligenz [FISI] |
+    | M5-8 WiSo: Kaufmännische Steuerung und Kontrolle | M5.8 WiSo: Kaufmännische Steuerung u. Kontrolle |
+    | M5-9 IT-Sicherheit: Datenübernahmen planen und durchführen | M5.9 IT-Security: Datenübernahmen - planen & durchführen |
+    | M5-10a FIAE: Kundenspezifische Anwendungsentwicklung | M5.10a Program: Kundenspezifische Anwendungsentwicklung [FIAE] |
+    | M5-10a FIAE: Benutzerschnittstellen (Weblösungen erstellen) optional | M5.11a Program: Benutzerschnittstellen (Weblösungen) [FIAE] |
+    | M5-10b FISI: Kundenspezifische Systemintegration | M5.10b Admin: Kundenspezifische Systemintegration [FISI] |
+    | neues Thema | M5.11b Admin: Windows-Systeme administrieren (Powershell) [FISI] |
+    | M5-11 Wiederholung und Prüfungsvorbereitung | M5.20 Wiederholung Lernmodul 5, Leistungskontrolle |
+    | M6-1 Produktübergabe und Kundenschulung | M6.1 Projekt: Produktübergabe und Kundenschulung |
+    | M6-2 Rhetorik und Präsentationstechnik (PV für Projektarbeit) | M6.2 Projekt: Rhetorik und Präsentationstechnik (PV für Projektarbeit) |
+    | M6-3a Prüfungsvorbereitung der AP 2 (FIAE) | M6.19a Prüfungsvorbereitung der AP 2 [FIAE] |
+    | M6-3b Prüfungsvorbereitung der AP 2 (FISI) | M6.19b Prüfungsvorbereitung der AP 2 [FISI] |
+    | M6-4a Optional: Kundenspezifische Anwendungsentwicklung (FIAE) | M6.4a Optional: Kundenspezifische Anwendungsentwicklung [FIAE] |
+    | M6-4b Optional: Kundenspezifische Systemintegration (FISI) | M6.4b Optional: Kundenspezifische Systemintegration [FISI] |
+    | M6-4 Prüfungsvorbereitung der AP 2 (FIAE) | M6.19a Prüfungsvorbereitung der AP 2 [FIAE] |
+    | M6-5 Prüfungsvorbereitung der AP 2 (FISI) | M6.19b Prüfungsvorbereitung der AP 2 [FISI] |
+
+
+!!! info "Anbieter von Übungsmaterial"
+    Es gibt diverse Anbieter von Lernmaterial für Fachinformatiker. Diese bieten ihre Inhalte meist für eine Monatliche Gebühr an:
+
+    * {{ link("Prozubi", "https://prozubi.de/shop/fachinformatiker-in/?step=1") }}
+    * {{ link("Simpleclub", "https://simpleclub.com/subjects/fachinformatiker") }}
+    * {{ link("azubinet", "https://www.azubinet.de/") }}
+    * {{ link("Erfolgsazubi Academy", "https://erfolgsazubi.academy/") }}
+
+    Auch bei der {{ link("IHK kann man alte Prüfungen oder komplette Lernpakete kaufen", "https://www.u-form-shop.de/abschlusspruefung/fachinformatiker-fachinformatikerin/anwendungsentwicklung/fachinformatiker-in-anwendungsentwicklung-erfolgspaket-plus-abschlusspruefung-teil-2-1") }}.
+
+    Der {{ link("Landesbildungsserver Baden-Württenberg","https://www.schule-bw.de/faecher-und-schularten/berufliche-schularten/berufsschule/lernfelder/etechnik/fachinformatik") }} bietet auch zu den verschidenen Lernfeldern ausführliche Lernzielkontrollen kostenfrei an.
 
 !!! info "Unterlagen von Qualidy"
 

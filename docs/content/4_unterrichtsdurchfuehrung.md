@@ -7,3 +7,6 @@
 {{ youtube_video("https://www.youtube.com/embed/SlZ41V6mKSM?si=MZLMgEPDcMVAQBJp", "Unterricht in Teams starten", expanded=True) }}
 
 {{ youtube_video("https://www.youtube.com/embed/-Px3OYg-rCE?si=cTzjKea7FaIamP0V", "Abwesenheiten Teilnehmer und Trainer", expanded=True) }}
+
+!!! danger "Keine Kontaktdaten weitergeben"
+    Es ist nicht gewünscht, dass ihr Kontaktdaten zu euch an die Teilnehmer ausgibt (z.b. Handynummer, Email, Unternehmensname, ...).

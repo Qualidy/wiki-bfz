@@ -48,7 +48,6 @@ Zur didaktischen Abwechslung jetzt mal etwas Text 😉
 !!! tip "peinliche Momente vermeiden"
     Bevor du den Bildschirm teilst, solltest du sicherstellen, dass sich nichts darauf befindet, dass du nicht teilen möchtest😱
 
-
 !!! tip "keine Aufzeichnungen 📹🚫"
     Es ist weder den Trainern, noch den Teilnehmern gestattet Aufzeichnungen vom Unterricht zumachen.
     
@@ -78,6 +77,10 @@ Zur didaktischen Abwechslung jetzt mal etwas Text 😉
     Ein anderes Whiteboard-Tool ist [:fontawesome-solid-external-link: Excalidraw](https://excalidraw.com/){ target=_blank rel="noopener noreferrer" }. Auch hier kann ein Link über die :octicons-share-android-16:-Taste erstellt werden.     
 
     ![alt text](../assets/excalidraw.png)
+
+
+!!! tip "Auf dem Bildschirm zeichnen"
+    Es gibt {{ link("diverse Tools", "https://www.gechic.com/de/best-free-annotation-software-tools/") }}, mit denen man seinen Bildschirm direkt in ein Whiteboard verwandeln kann. Nutze solche gerne.
 
 !!! tip "technische Probleme beim Teilnehmer"
     Wenn ein Teilnehmer technische Probleme hat, soll dieser sich bei seinem Support, besser noch beim Team vom bfz melden. Dabei sollen sie immer ihre **SFI**-Nummer mitgeben, die auf ihrem Rechner steht, wenn vorhanden.

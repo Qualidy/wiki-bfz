@@ -32,9 +32,14 @@ Checkliste:
 | bfz | Carola Dyba | {{ mail("carola.dyba@bfz.de") }} | |
 | bfz | Burghard Gabsch | {{ mail("burghard.gabsch@bfz.de") }} | |
 | bfz | Rudolf Schmidkonz | {{ mail("Rudolf.schmidkonz@bfz.de") }} | |
-| bfz | Technischer Support des bfz | {{ mail("loius@support.bbw.de") }} |  |
+| bfz | Technischer Support des bfz | {{ mail("louis@support.bbw.de") }} |  |
 | Qualidy | Daniel Schmidt | {{ mail("vc-vc-trai307@Schulung-bbw.de") }}  | Per Mail nur über {{ mail("daniel.schmidt@qualidy.de") }} erreichbar |
 | Qualidy | Viktor Reichert | {{ mail("vc-vc-trai253@Schulung-bbw.de") }} | Per Mail nur über {{ mail("viktor.reichert@qualidy.de") }} erreichbar |
+
+Wenn ihr eine Mail an die Ausbilder des bfz habt und sichergehen wollt, dass diese möglichst schnell gelesen wird, sendet sie bitte an alle Ausbilder des bfz.
+
+!!! danger "Die vc-Mail nur beim bfz verwenden"
+    Bitte verwendet die vom bfz bereitgestellte Mail nicht für private Zwecke, sondern ausschließlich für den Unterricht beim bfz. Falls du zu einem Teamsmeeting mit einem anderen Kunden eingeladen bist, achte bitte auch darauf nicht mit dem bfz-Account teilzunehmen!
 
 ## Unterrichtsnachweisportal
 
@@ -55,5 +60,10 @@ oder die "vc-vc-trai"-Email, die du von bfz erhalten hast. Im zweiten Fall kanns
     Drückt bei jeder Änderung im Protokoll direkt auf "Speichern". Die Änderungen werden nämlich nicht automatisch gespeichert und es
     gab schon einige Trainer, die erstaunt geguckt haben, dass ihr Browser sich nach einigen Stunden "plötzlich" aktualisierte und
     alle Ihre Eintragungen verschwunden waren.
+
+!!! tip "Unterrichtsnachweis ist wahnsinnig wertvoll und stark"
+    Bitte dokumentiert ausführlich, wenn Teilnehmer gute oder schlechte Unterrichtsleistungen zeigen, insbesondere Abwesenheiten. Wenn ihr diese nicht notiert, gibt es keinen Nachweis über das Fehlverhalten der Teilnehmer. In dem Beispiel unten siehst du einen gut ausgefüllten Nachweis. Dieser war sehr hilfreich einige Teilnehmer zu besserer Mitarbeit zu bewegen. (Helft den Ausbildern Hebel in der Hand zu haben.)
+
+    ![](../assets/guter_nachweis.png)
 
 Super, jetzt hast du dich zu allen Portalen angemeldet, die du für den Unterricht brauchst!🎉🥂🥳

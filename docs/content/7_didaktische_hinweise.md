@@ -56,3 +56,21 @@ Und damit man sich mehr auf die Videos freut, noch ein wenig Text 😘
     Die Teilnehmer verstehen das leicht falsch als eine Verpflichtung dieses Buch kaufen zu müssen.
 
     Höchsten können sehr vorsichtige Sätze fallen, wie: "Dieses Buch finde ich gut zu dem Thema".
+
+!!! tip "Fehlendes Vorwissen erwarten"
+    Aus verschiedenen Gründen kann es passieren, dass ein kleiner oder großer Teil der Teilnehmer Vorwissen nicht mitbringt, dass in vorherigen Modulen bereits beigebracht wurde oder hätte beigebracht werden sollen. Wenn das der Fall ist, so
+    
+    1. notiert das im Unterrichtsnachweisprotokol und
+    2. räumt Zeit dafür ein die Basics mit Ihnen in angemessenen Rahmen zu wiederholen.
+
+    Das ist immer sehr ungünstig, aber leider häufige Realität.
+
+!!! tip "Zusammenfassungen mitgeben oder entwickeln"
+    Für die Teilnehmer sind Zusammenfassungen des Unterrichts sehr wertvoll, die sie in der Wiederholungswoche nutzen können Gold wert. Sie sind sehr dankbar, wenn ihr diese bereitstellt oder mit ihnen am Ende des Unterrichtstages erarbeitet.
+
+!!! danger "Was habt ihr zuletzt gemacht ist keine gute Frage"
+    Im Teamskanal einer Klasse könnt ihr hochscrollen, um zu sehen, wer zuletzt den Unterricht durchgeführt hat. Diesen Dozenten könnt ihr gerne anschreiben und fragen, was die Teilnehmer zuletzt gemacht haben. Auch die Ausbilder des bfz können diese Frage sehr gut beantworten, da sie auch auf die Klassenbücher zugreifen können.
+
+    Die Frage "Was habt ihr denn zuletzt gemacht" kann (nachvollziehbarer weise) auf einige Teilnehmer unvorbereitet wirken.
+
+    Es gibt übrigens auch einen Teams-Kanal "IT-Berufe Trainer und Trainerinnen", in dem du dich mit den anderen Trainern austauschen kannst. Falls du diesen nicht siehst, gib bitte Qualidy oder den Ausbildern bescheid, damit sie dich in diesen Kanal einladen.
