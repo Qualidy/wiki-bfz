@@ -35,6 +35,7 @@ Checkliste:
 | bfz | Technischer Support des bfz | {{ mail("louis@support.bbw.de") }} |  |
 | Qualidy | Daniel Schmidt | {{ mail("vc-vc-trai307@Schulung-bbw.de") }}  | Per Mail nur über {{ mail("daniel.schmidt@qualidy.de") }} erreichbar |
 | Qualidy | Viktor Reichert | {{ mail("vc-vc-trai253@Schulung-bbw.de") }} | Per Mail nur über {{ mail("viktor.reichert@qualidy.de") }} erreichbar |
+| Qualidy | Daniel Nergiz | | Per Mail nur über {{ mail("daniel.nergiz@qualidy.de") }} erreichbar |
 
 Wenn ihr eine Mail an die Ausbilder des bfz habt und sichergehen wollt, dass diese möglichst schnell gelesen wird, sendet sie bitte an alle Ausbilder des bfz.
 
