@@ -74,3 +74,6 @@ Und damit man sich mehr auf die Videos freut, noch ein wenig Text 😘
     Die Frage "Was habt ihr denn zuletzt gemacht" kann (nachvollziehbarer weise) auf einige Teilnehmer unvorbereitet wirken.
 
     Es gibt übrigens auch einen Teams-Kanal "IT-Berufe Trainer und Trainerinnen", in dem du dich mit den anderen Trainern austauschen kannst. Falls du diesen nicht siehst, gib bitte Qualidy oder den Ausbildern bescheid, damit sie dich in diesen Kanal einladen.
+
+!!! tip "Keinen Privatunterricht geben"
+    Wenn du einem Teilnehmer nach der Unterrichtszeit noch etwas erklären möchtest, bleibe dazu bitte umbedingt im Hauptraum, sodass auch andere Teilnehmer daran teilnehmen könnten. Startet keine private Nachhilfeeinheit mit dem Teilnehmer. Es gab da in der Vergangenheit leider neidische Vorfälle deswegen.
