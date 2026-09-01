@@ -44,18 +44,19 @@ Wenn ihr eine Mail an die Ausbilder des bfz habt und sichergehen wollt, dass die
 
 ## Unterrichtsnachweisportal
 
+!!! danger "Fehler im nächsten Video"
+    Im nächsten Video ist die erstmalige Anmeldung nicht korrekt beschrieben.
+
+    Du meldest dich NICHT mit der vc-vc-Mail an. Sonder du tust folgendes:
+
+    1. Klicke unten auf "Neues Kennwort anfordern".
+    2. Gebe deine E-Mail-Adresse an, die du an uns (Qualidy) gegeben und wir an das bfz weitergereicht haben.
+    3. Klicke auf "Kennwort per E-Mail zusenden"
+    4. Gehe in dein E-Mail-Postfach. Hier findest du eine Mail mit Anmeldenamen und Passwort. Falls das nicht passiert, melde dich bitte beim Support vom bfz.
+
 {{ youtube_video("https://www.youtube.com/embed/sP3qKZygqOM?si=CPX2IbqgOew2Isj3", "Anleitungsvideo Unterrichtsnachweis Trainer", expanded=True) }}
 
-Abschließend musst du dich nun noch auf dem 
-{{ link("Portal für Unterrichtsnachweise", "https://unterrichtsnachweis-service.bfz.de/trainerportal/") }}
-anmelden.
-
-Falls das Initiale Passwort `1Changeme!` nicht funktioniert, kannst du unter der Anmeldemaske ein "Neues Kennwort anfordern" klicken.
-
-Die Mail, die du hier angibst, kann entweder die sein, die du Qualidy gegeben hast und wir an das bfz weitergeleitet haben
-oder die "vc-vc-trai"-Email, die du von bfz erhalten hast. Im zweiten Fall kannst du auf diese über den Browser zugreifen 
-({{ link("outlook.com", "https://outlook.com") }}).
-
+{{ link("Link zum Portal für Unterrichtsnachweise", "https://unterrichtsnachweis-service.bfz.de/trainerportal/") }}
 
 !!! danger "Immer speichern!"
     Drückt bei jeder Änderung im Protokoll direkt auf "Speichern". Die Änderungen werden nämlich nicht automatisch gespeichert und es
