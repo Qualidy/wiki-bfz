@@ -28,7 +28,7 @@ hide:
 ![](assets/Logo_Qualidy_cmyk.svg)
 
 
-!!! info "Wichtig Links"
+!!! info "Wichtige Links"
 
     {{ link("Lernmanagmentsystem (LMS) des bfz", "https://lms.bbw.de/") }}
 

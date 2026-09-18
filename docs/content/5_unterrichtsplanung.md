@@ -157,6 +157,9 @@ Früher hatten einige der Module noch andere Bezeichnungen. Diese kannst du hier
 !!! info "Alte Prüfungen"
     Du findest im {{ link("LMS", "https://lms.bbw.de/course/view.php?id=5377")}} unter "M6.19a Prüfungsvorbereitung der AP 2 [FIAE]" und "M6.19b Prüfungsvorbereitung der AP 2 [FIAE]" Links zu alten Abschlussprüfungen und "Einsicht zur AP 2".
 
+!!! info "Reihenfolge beibehalten"
+    Wenn du mehrere Wochen hintereinander in der gleichen Klasse eingesetzt bist, dann führe die Unterrichte in der vorgesehenen Reihenfolge durch. Falls du ausfällst ermöglichst du so, dass deine Klasse ausnahmsweise mit einer anderen Klasse, die paralell im selben Fach unterrichtet wird, zusammengelegt wird.
+
 ## Technische Planung
 
 {{ youtube_video("https://www.youtube.com/embed/w2CrrEoA4Bo?si=Si2OdV0wYySW_k5W", "Installierte Tools", expanded=True) }}
