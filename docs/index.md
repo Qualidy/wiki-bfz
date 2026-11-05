@@ -1,61 +1,82 @@
 ---
 hide:
-  - navigation
   - toc
 ---
-# bfz Onboarding
 
-<div class="grid" markdown style="grid-template-columns: repeat(2, minmax(0, 1fr));">
+# Informationen zur Zusammenarbeit mit dem bfz
 
-<div markdown>
+Kompakte Orientierung für selbstständige Dozenten: Zugänge, Kursrahmen und praktische Hilfen zu deinem vereinbarten Auftrag.
 
-<div class="grid cards fancy grid--cols-1" markdown >
-- [:material-hand-clap: **Willkommen**](content/1_welcome.md)
-- [:material-login-variant: **Login**](content/2_login.md)
-- [:material-account-supervisor-outline: **Erklärung zur Ausbildung der Teilnehmer**](content/3_erklaerungen_ausbildung.md)
-- [:material-human-male-board: **Unterricht durchführen**](content/4_unterrichtsdurchfuehrung.md)
-- [:material-clipboard-list: **Unterricht planen**](content/5_unterrichtsplanung.md)
-- [:material-wrench-cog: **Technische Hinweise**](content/6_technische_hinweise.md)
-- [:material-fire: **Didaktische Hinweise**](content/7_didaktische_hinweise.md)
-- [:material-list-status: **Lernzielkontrollen**](content/8_lzk.md)
-- [:material-thumb-up: **Abschließende Hinweise**](content/9_abschliessende_hinweise.md)
+Methoden, Materialien und persönliche Arbeitsorganisation wählst du eigenständig. Die Empfehlungen hier sind freiwillig; gleichwertige Alternativen sind möglich. Vereinbarte Leistungen und konkret erforderliche Nachweise ergeben sich aus deinem Auftrag.
+
+<div class="grid cards" markdown>
+
+- :material-hand-clap: **Zusammenarbeit und Unterlagen**
+
+    Rollen, Ansprechpersonen und angefragte Dokumente.
+
+    [Weiterlesen](content/1_welcome.md)
+
+- :material-login-variant: **Zugänge und Anmeldung**
+
+    LMS, Teams und Unterrichtsnachweisportal.
+
+    [Weiterlesen](content/2_login.md)
+
+- :material-account-supervisor-outline: **Kursrahmen und Teilnehmer**
+
+    Umschulung, Teilqualifizierung und wichtige Begriffe.
+
+    [Weiterlesen](content/3_erklaerungen_ausbildung.md)
+
+- :material-human-male-board: **Kursdurchführung und Nachweise**
+
+    Termine, Kursraum und erforderliche Dokumentation.
+
+    [Weiterlesen](content/4_unterrichtsdurchfuehrung.md)
+
+- :material-clipboard-list: **Lernziele und Materialien**
+
+    Inhaltlicher Rahmen und freiwillige Materialhilfen.
+
+    [Weiterlesen](content/5_unterrichtsplanung.md)
+
+- :material-wrench-cog: **Technische Möglichkeiten**
+
+    Funktionen und Hilfe bei technischen Fragen.
+
+    [Weiterlesen](content/6_technische_hinweise.md)
+
+- :material-lightbulb-outline: **Didaktische Anregungen**
+
+    Freiwillige Ideen für deine Unterrichtsgestaltung.
+
+    [Weiterlesen](content/7_didaktische_hinweise.md)
+
+- :material-list-status: **Lernstand und Nachweise**
+
+    Geeignete Formate und Forms als Beispiel.
+
+    [Weiterlesen](content/8_lzk.md)
+
+- :material-file-document-outline: **Aufträge und Abrechnung**
+
+    Auftragsannahme, Austausch und Rechnungszuordnung.
+
+    [Weiterlesen](content/9_abschliessende_hinweise.md)
+
 </div>
 
-</div>
+## Direkteinstieg
 
-<div style="margin-left: 15px" markdown>
-
-![](assets/Logo_Qualidy_cmyk.svg)
-
-
-!!! info "Wichtige Links"
-
-    {{ link("Lernmanagmentsystem (LMS) des bfz", "https://lms.bbw.de/") }}
-
-    {{ link("Portal für Unterrichtsnachweise", "https://unterrichtsnachweis-service.bfz.de/trainerportal/") }}
-
-    {{ link("Link zu den Unterrichtszeiten", "https://lms.bbw.de/course/view.php?id=5906&section=3") }}
-
-!!! tip "Schneller Navigieren"
-
-    ++p++ oder ++comma++ : Zur vorherigen Seite gehen (**P**revious)
-
-    ++n++ oder ++period++ : Zur nächsten Seite gehen (**N**ext)
-
-
-</div>
-
-</div>
+[LMS – Digitaler Lernraum](https://lms.bbw.de/) · [Teams](https://teams.microsoft.com/v2/) · [Unterrichtsnachweisportal](https://unterrichtsnachweis-service.bfz.de/trainerportal/)
 
 ## Kontakte
 
-| Team | Name | Mail im Teams-Chat des bfz | Anmerkungen |
-|-|-|-|-|
-| bfz | Joao Matobo | {{ mail("joao.matobo@bfz.de") }} | Rufname "Flo" |
-| bfz | Carola Dyba | {{ mail("carola.dyba@bfz.de") }} | |
-| bfz | Burghard Gabsch | {{ mail("burghard.gabsch@bfz.de") }} | |
-| bfz | Rudolf Schmidkonz | {{ mail("rudolf.schmidkonz@bfz.de") }} | |
-| bfz | Technischer Support des bfz | {{ mail("michaela.schwaerzler@bfz.de")}} | Per Mail über {{ mail("louis@support.bbw.de") }} erreichbar | 
-| Qualidy | Daniel Schmidt | {{ mail("vc-vc-trai307@Schulung-bbw.de") }}  | Per Mail nur über {{ mail("daniel.schmidt@qualidy.de") }} erreichbar |
-| Qualidy | Viktor Reichert | {{ mail("vc-vc-trai253@Schulung-bbw.de") }} | Per Mail nur über {{ mail("viktor.reichert@qualidy.de") }} erreichbar |
-| Qualidy | Daniel Nergiz | | Per Mail nur über {{ mail("daniel.nergiz@qualidy.de") }} erreichbar |
+Die Angaben stammen aus den bisherigen Kursinformationen. Bei geänderter Zuständigkeit hilft die aktuelle Kontaktübersicht des bfz im LMS.
+
+| Thema | Kontakt |
+| --- | --- |
+| Qualidy: Auftrag und Zusammenarbeit | [Viktor Reichert](mailto:viktor.reichert@qualidy.de), [Daniel Schmidt](mailto:daniel.schmidt@qualidy.de), [Daniel Nergiz](mailto:daniel.nergiz@qualidy.de) |
+| bfz-Ausbilderteam: Inhalte und Kursorganisation | [Joao Matobo](mailto:joao.matobo@bfz.de), [Carola Dyba](mailto:carola.dyba@bfz.de), [Burghard Gabsch](mailto:burghard.gabsch@bfz.de), [Rudolf Schmidkonz](mailto:rudolf.schmidkonz@bfz.de) |
+| bfz: Technischer Support | [louis@support.bbw.de](mailto:louis@support.bbw.de) |

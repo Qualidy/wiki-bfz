@@ -1,54 +1,29 @@
-# Willkommen
+# Zusammenarbeit und Unterlagen
 
-{{ youtube_video("https://www.youtube.com/embed/sh8np48Zvz0?si=z0FYBm7fyZ5zbLLn", "Willkommen", expanded=True) }}
+Willkommen! Hier findest du Informationen zu deinem Auftrag als selbstständiger Dozent für Kurse des bfz. Auftraggeber für deinen Einsatz ist Qualidy; das bfz stellt den Kursrahmen und die Lernplattform bereit.
 
-Fragen und Anmerkungen senden an: {{ mail("viktor.reichert@qualidy.de") }}
+Du entscheidest, welche Aufträge du annimmst. Angenommene Aufträge führst du eigenverantwortlich durch. Unterrichtsmethoden und geeignete Lehrmaterialien wählst du selbst. Die Beispiele und Empfehlungen auf diesen Seiten sind freiwillige Hilfen; gleichwertige Alternativen sind möglich.
 
-## Benötigte Unterlagen
+## Unterlagen zum Auftrag
 
-{{ youtube_video("https://www.youtube.com/embed/zctcjKm9Ijk?si=yqNCmiIDl8C2ZORy", "Alles zugeschickt?", expanded=True) }}
+Für die Eignungs- und Auftragsdokumentation können Lebenslauf, fachliche Qualifikationsnachweise und gegebenenfalls ein Ausbildereignungsnachweis benötigt werden. Welche Unterlagen erforderlich sind, ergibt sich aus der jeweiligen Anfrage bzw. Vereinbarung. Bereits vorliegende Unterlagen brauchen nicht erneut eingereicht zu werden.
 
-Lebenslauf senden an: {{ mail("viktor.reichert@qualidy.de") }}
+Die bisher bereitgestellten bfz-Formulare findest du hier:
 
-Unterlagen, die du an anderer Stelle schon mal an uns gesandt hast, haben wir bereits dem bfz zur Verfügung gestellt.
+- [Selbstauskunft herunterladen](../assets/Selbstauskunft.docx)
+- [Referentenfragebogen herunterladen](../assets/Referentenfragebogen.docx)
+- [Datenschutzhinweise des bfz](../assets/Datenschutzerklaerung_bfz_Partner_Referenten.pdf)
 
-{{ youtube_video("https://www.youtube.com/embed/N_sfr85HHw0?si=XaDV5221raHoxXWP", "Selbstauskunft und Referentenfragebogen", expanded=True) }}
+Wenn diese Formulare für deinen Auftrag angefragt wurden, kannst du sie als PDF an [Viktor Reichert](mailto:viktor.reichert@qualidy.de) senden. Bei unklaren oder bereits beantworteten Angaben hilft eine kurze Rückfrage.
 
+## Wer hilft bei welcher Frage?
 
-[:material-download: Download Selbstauskunft](../assets/Selbstauskunft.docx){ .md-button .md-button--primary } [:material-download: Download Referentenfragebogen](../assets/Referentenfragebogen.docx){ .md-button .md-button--primary }
+| Thema | Kontakt |
+| --- | --- |
+| Auftrag, Honorar und Abrechnung | Qualidy |
+| Lernziele, Kurszuordnung und Kursorganisation | bfz-Ausbilderteam |
+| LMS, Kundenkonto und technische Zugänge | bfz-Support |
+| Rechner am Teilnehmerstandort | Standort-Support, erreichbar über das bfz |
+| Abwesenheiten und Betreuung der Teilnehmer am Standort | Lernprozessbegleitung am Standort |
 
-Das bfz besitzt euren Lebenslauf. Wir könnt euch im Referentenfragebogen also kurz fassen.
-
-Ausgefüllte Dokumente als **pdf** bitte an {{ mail("viktor.reichert@qualidy.de") }} senden.
-
-## Datenschutzerklärung
-    
-Hier ist die Datenschutzerklärung des bfz. Bitte lies diese einmal durch.
-
-{{ (link("Datenschutzerklärung bfz", "../assets/Datenschutzerklaerung_bfz_Partner_Referenten.pdf") )}}
-
-## Wer ist wer?
-
-{{ youtube_video("https://www.youtube.com/embed/rGdkZGc5K88?si=ep8M7SI2r9O8FBD9", "Wer ist wer?", expanded=True) }}
-
-
-``` mermaid
----
-title: Organigram
-config:
-  look: handDrawn
-  theme: neutral
----
-graph LR
-
-    louis
-
-    louis["LOU!S <p> Produkt des bfz"] --beauftragt--> Qualidy
-
-    Qualidy["Qualidy GmbH"] --beauftragt--> Trainer([Trainer])
-
-    BT["Bildungsträger <p>faw, bfz, andere..."] --beauftragt--> louis
-    
-    BT --stellt bereit--> Teilnehmer([Teilnehmer])
-
-```
+Die [Kontaktübersicht](../index.md#kontakte) bündelt die bekannten Adressen.

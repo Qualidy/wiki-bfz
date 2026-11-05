@@ -1,27 +1,21 @@
-# Erklärungen zur Ausbildung der Teilnehmer
+# Kursrahmen und Teilnehmer
 
-{{ youtube_video("https://www.youtube.com/embed/f9XNdMaNll0?si=W7HICKkGoCZbeDcK", "Übersicht der Ausbildungszeit", expanded=True) }}
+In den IT-Kursen lernen Teilnehmer der Umschulung und der Teilqualifizierung, teilweise gemeinsam. Sie können an unterschiedlichen Standorten sitzen. Technische Ausstattung und Lernvoraussetzungen können deshalb variieren.
 
-![Übersicht über die Ausbildungszeit](<../assets/Übersicht Ausbildungszeit.png>)
+Die bisherigen Kursinformationen gliedern die Fachinformatiker-Ausbildung in sechs Lernmodule. Umschulung, Teilqualifizierung und betriebliche Phasen unterscheiden sich im Ablauf. Für deinen Kurs sind die aktuellen Informationen des bfz maßgeblich.
 
-| Abkürzung | Bedeutung | Wann |
-|-|-|-|
-| UMS | Umschüler |
-| TN | Teilnehmer |
-| TQ | Teilqualifikation |
-| TP | Terialprüfung | am Ende jedes Moduls für Umschüler |
-| KFS | Kompetenzfeststellung | am Ende jedes Moduls für TQ-ler |
-| AP1 | Zwischenprüfung der IHK | am Ende von Modul 3 |
-| AP2 | Abschlussprüfung der IHK | am Ende von Modul 6 |
-| FISI | Fachinformatiker Systemintegration ||
-| FIAE | Fachinformatiker Anwendungsentwickler ||
-| SFI | Nummer des Teilnehmerrechners | An Support bei Problemen mit dem TN-Rechnern geben |
-| LPB | Lernprozessbegleiter | Jeder Teilnehmer hat vor Ort einen LPB, der den Ausbildungsfortschritt überwacht |
+| Begriff | Bedeutung |
+| --- | --- |
+| FIAE | Fachinformatiker, Fachrichtung Anwendungsentwicklung |
+| FISI | Fachinformatiker, Fachrichtung Systemintegration |
+| UMS / TN | Umschulung bzw. Umschüler / Teilnehmer |
+| TQ | Teilqualifizierung bzw. Teilqualifikation |
+| TP | Terzialprüfung innerhalb der Umschulung |
+| KFS | Kompetenzfeststellung innerhalb der Teilqualifizierung |
+| AP1 / AP2 | Teil 1 / Teil 2 der gestreckten IHK-Abschlussprüfung |
+| LPB | Lernprozessbegleitung am Teilnehmerstandort |
+| SFI | Kennzeichnung eines Teilnehmerrechners; hilfreich bei Supportanfragen |
 
-!!! info "Hinweis zu der Modulbenennung"
-    Module mit einer 20 als zweite Zahl, sind immer eine Vorbereitungswoche auf TP oder KFS (z.B. "M3.20 Wiederholung Lernmodul 3, Leistungskontrolle").
-    Module mit einer 19 als zweite Zahl sind immer eine Vorbereitung auf die AP (z.B. "M6.19a Prüfungsvorbereitung der AP 2 [FIAE]").
+Termine, Zulassung und Prüfungsorganisation sind kursabhängig. Verbindliche Auskünfte dazu gibt das bfz bzw. die zuständige Prüfungsstelle. Frühere Übersichtszeichnungen ersetzen keinen aktuellen Kurs- oder Prüfungskalender.
 
-{{ youtube_video("https://www.youtube.com/embed/Tot9qS4rWbE?si=tm-oNFobXoeikJ0g", "Beteiligte Personen", expanded=True) }}
-
-![Beteilige Personen](../assets/beteiligte_personen.png)
+Bei fachlichen Abgrenzungen helfen die Lernziele im LMS und das bfz-Ausbilderteam. Fragen zu deinem Auftrag besprichst du mit Qualidy.

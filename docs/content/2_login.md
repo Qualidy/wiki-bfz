@@ -1,71 +1,32 @@
-# Login
+# Zugänge und Anmeldung
 
-In diesem Abschnitt wirst du dich in alle System des Kunden einloggen. Hierzu hast du eine E-Mail vom bfz mit Zugangsdaten erhalten.
+Für den vereinbarten Auftrag stellt das bfz die benötigten Kundenzugänge bereit. Fehlen Zugangsdaten oder Berechtigungen, hilft der [bfz-Support](../index.md#kontakte).
 
-## LMS
+## LMS: Digitaler Lernraum
 
-{{ youtube_video("https://www.youtube.com/embed/8bQoZmuIQG8?si=tYNPtUunIn_L7moo", "Einloggen ins LMS", expanded=True) }}
+1. Öffne den [digitalen Lernraum der bbw-Gruppe](https://lms.bbw.de/).
+2. Wähle **Anmelden** und nutze die vom bfz übermittelten LMS-Zugangsdaten.
+3. Falls bei der Erstanmeldung ein Passwortwechsel erscheint, folge dem dortigen Dialog.
+4. Rufe deinen zugeordneten Kurs auf. Dort findest du Lernziele, Termine und Materialien.
 
-{{ link("Lernmanagmentsystem (LMS) des bfz", "https://lms.bbw.de/") }}
+Die Oberfläche wurde verändert. Alte Kachelpositionen sind deshalb keine verlässliche Orientierung. Fehlt ein Kurs, kann der Support die Kurszuordnung oder Berechtigung prüfen.
 
 ## Microsoft Teams
 
-{{ youtube_video("https://www.youtube.com/embed/C7NyuanklKA?si=bP7ZdJch90PuYTA5", "Einloggen bei Teams", expanded=True) }}
+Öffne [Teams im Browser](https://teams.microsoft.com/v2/) oder nutze die [Teams-App](https://www.microsoft.com/de-de/microsoft-teams/download-app). Für den Kundenbereich ist das vom bfz bereitgestellte Microsoft-Konto vorgesehen; es kann sich vom LMS-Benutzernamen unterscheiden.
 
-{{ link("Login Teams im Browser", "https://teams.microsoft.com/v2/") }}
+Deine Kursmitteilung nennt das Team und den Kanal der Klasse. Ist ein Kanal nicht sichtbar, kann er ausgeblendet sein oder die Freigabe fehlen. Bei fehlender Freigabe helfen das bfz oder Qualidy.
 
-{{ link("Microsoft Teams herunterladen", "https://www.microsoft.com/de-de/microsoft-teams/download-app")}}
-
-{{ youtube_video("https://www.youtube.com/embed/tsjxVUIXT_s?si=qagxhkNx219Cdasp", "Einstellungen für Teams", expanded=True) }}
-
-Checkliste:
-
-* [ ] weitere Apps auffindbar
-* [ ] Teams Kacheln auf Liste umstellen
-* [ ] Alle Kanäle werden angezeigt
-* [ ] Profilbild einfügen
-* [ ] Ausbilder und Qualidymitarbeiter als Favouriten speichern. 
-
-| Team | Name | Mail im Teams-Chat des bfz | Anmerkungen |
-|-|-|-|-|
-| bfz | Joao Matobo | {{ mail("joao.matobo@bfz.de") }} | Rufname "Flo" |
-| bfz | Carola Dyba | {{ mail("carola.dyba@bfz.de") }} | |
-| bfz | Burghard Gabsch | {{ mail("burghard.gabsch@bfz.de") }} | |
-| bfz | Rudolf Schmidkonz | {{ mail("Rudolf.schmidkonz@bfz.de") }} | |
-| bfz | Technischer Support des bfz | {{ mail("louis@support.bbw.de") }} |  |
-| Qualidy | Daniel Schmidt | {{ mail("vc-vc-trai307@Schulung-bbw.de") }}  | Per Mail nur über {{ mail("daniel.schmidt@qualidy.de") }} erreichbar |
-| Qualidy | Viktor Reichert | {{ mail("vc-vc-trai253@Schulung-bbw.de") }} | Per Mail nur über {{ mail("viktor.reichert@qualidy.de") }} erreichbar |
-| Qualidy | Daniel Nergiz | | Per Mail nur über {{ mail("daniel.nergiz@qualidy.de") }} erreichbar |
-
-Wenn ihr eine Mail an die Ausbilder des bfz habt und sichergehen wollt, dass diese möglichst schnell gelesen wird, sendet sie bitte an alle Ausbilder des bfz.
-
-!!! danger "Die vc-Mail nur beim bfz verwenden"
-    Bitte verwendet die vom bfz bereitgestellte Mail nicht für private Zwecke, sondern ausschließlich für den Unterricht beim bfz. Falls du zu einem Teamsmeeting mit einem anderen Kunden eingeladen bist, achte bitte auch darauf nicht mit dem bfz-Account teilzunehmen!
+Listenansicht, Favoriten, Profilbild und Benachrichtigungen kannst du nach Bedarf einrichten. Das Kundenkonto dient dem Zugang zur Kundenumgebung. Für deine eigene geschäftliche Kommunikation nutzt du deine eigene Geschäftsadresse.
 
 ## Unterrichtsnachweisportal
 
-!!! danger "Fehler im nächsten Video"
-    Im nächsten Video ist die erstmalige Anmeldung nicht korrekt beschrieben.
+Das [Portal für Unterrichtsnachweise](https://unterrichtsnachweis-service.bfz.de/trainerportal/) hat eine gesonderte Anmeldung. Die bisherige schriftliche Korrektur zum Portaleinstieg beschreibt die Erstanmeldung so:
 
-    Du meldest dich NICHT mit der vc-vc-Mail an. Sonder du tust folgendes:
+1. **Neues Kennwort anfordern** wählen.
+2. Die eigene E-Mail-Adresse angeben, die du Qualidy für die Weitergabe an das bfz genannt hast.
+3. Die Zugangsinformationen aus der erhaltenen E-Mail verwenden.
 
-    1. Klicke unten auf "Neues Kennwort anfordern".
-    2. Gebe deine E-Mail-Adresse an, die du an uns (Qualidy) gegeben und wir an das bfz weitergereicht haben.
-    3. Klicke auf "Kennwort per E-Mail zusenden"
-    4. Gehe in dein E-Mail-Postfach. Hier findest du eine Mail mit Anmeldenamen und Passwort. Falls das nicht passiert, melde dich bitte beim Support vom bfz.
+Bleibt die Nachricht aus, helfen ein Blick in den Spamordner und eine Anfrage an den bfz-Support. Für diese Kennwortanforderung ist die eigene hinterlegte Adresse vorgesehen, nicht die vom bfz bereitgestellte Microsoft-Adresse.
 
-{{ youtube_video("https://www.youtube.com/embed/sP3qKZygqOM?si=CPX2IbqgOew2Isj3", "Anleitungsvideo Unterrichtsnachweis Trainer", expanded=True) }}
-
-{{ link("Link zum Portal für Unterrichtsnachweise", "https://unterrichtsnachweis-service.bfz.de/trainerportal/") }}
-
-!!! danger "Immer speichern!"
-    Drückt bei jeder Änderung im Protokoll direkt auf "Speichern". Die Änderungen werden nämlich nicht automatisch gespeichert und es
-    gab schon einige Trainer, die erstaunt geguckt haben, dass ihr Browser sich nach einigen Stunden "plötzlich" aktualisierte und
-    alle Ihre Eintragungen verschwunden waren.
-
-!!! tip "Unterrichtsnachweis ist wahnsinnig wertvoll und stark"
-    Bitte dokumentiert ausführlich, wenn Teilnehmer gute oder schlechte Unterrichtsleistungen zeigen, insbesondere Abwesenheiten. Wenn ihr diese nicht notiert, gibt es keinen Nachweis über das Fehlverhalten der Teilnehmer. In dem Beispiel unten siehst du einen gut ausgefüllten Nachweis. Dieser war sehr hilfreich einige Teilnehmer zu besserer Mitarbeit zu bewegen. (Helft den Ausbildern Hebel in der Hand zu haben.)
-
-    ![](../assets/guter_nachweis.png)
-
-Super, jetzt hast du dich zu allen Portalen angemeldet, die du für den Unterricht brauchst!🎉🥂🥳
+Die Bearbeitung eines erforderlichen Nachweises ist unter [Kursdurchführung und Nachweise](4_unterrichtsdurchfuehrung.md) beschrieben.
