@@ -1,0 +1,18 @@
+/* Compact cards; readable contrast and a single column on small screens. */
+:root {
+  --md-typeset-a-color: #805600;
+}
+.md-typeset .grid.cards {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr));
+}
+.md-typeset .grid.cards > ul > li {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-top: 3px solid #ffb300;
+  border-radius: .4rem;
+}
+.md-typeset .grid.cards > ul > li:hover {
+  border-color: #b57900;
+}
+.md-typeset .grid.cards p {
+  margin-bottom: .5em;
+}
