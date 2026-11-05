@@ -2,6 +2,8 @@
 .vscode
 venv
 .venv
+site/
+.cache/
 __pycache__
 
 notes.md

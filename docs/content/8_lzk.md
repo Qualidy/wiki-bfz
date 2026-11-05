@@ -1,26 +1,27 @@
-# Lernzielkontrolle (LZK)
+# Lernstand und vereinbarte Nachweise
 
-Am Ende jedes Themas soll eine Lernzielkontrolle durchgeführt werden.
+Lernzielkontrollen können zeigen, welche Inhalte bereits verstanden wurden. Ob für deinen Auftrag eine bestimmte Kontrolle oder Ergebnisübermittlung erforderlich ist, richtet sich nach der konkreten Vereinbarung. Diese Hinweise schaffen keine zusätzliche Prüfungs- oder Berichtspflicht.
 
-{{ youtube_video("https://www.youtube.com/embed/-3qKcbHRgo4?si=hFVC8I4i7xBiWy63", "LZK erstellen", expanded=True) }}
+## Gestaltung
 
-Nutze {{ link("Microsoft Forms", "https://forms.cloud.microsoft/") }} und erstelle darin ein **Quiz**.
+Du wählst geeignete Aufgaben und eine fachlich passende Form. Beispiele sind praktische Aufgaben, ein Fachgespräch oder ein Quiz. Auch bei bereitgestellten Vorlagen bleiben andere gleichwertige Mittel möglich, soweit sie den vereinbarten Nachweis erfüllen.
 
-Eine LZK soll ca. 1h dauern.
+Ein Quiz mit etwa einer Stunde Bearbeitungszeit und einer 100-Punkte-Skala ist ein mögliches Beispiel. Ob ein solches Format für deinen Auftrag verbindlich ist, ergibt sich aus der konkreten Vereinbarung.
 
-Die Maximalpunktzahl soll genau 100 sein.
+## Beispiel: Quiz mit Microsoft Forms
 
-{{ youtube_video("https://www.youtube.com/embed/T5vN77BJ8Oo?si=rI2jH6tx3ZA85SYx", "Rückmeldung erstellen", expanded=True) }}
+[Microsoft Forms](https://forms.cloud.microsoft/) ist eine mögliche Hilfe, sofern es für dein Kundenkonto freigeschaltet ist:
 
-{{ link("Tool zum erstellen der Mailtexte", "https://mailhelperlzk--nokix.on.websim.com/") }}
+1. Ein neues **Quiz** anlegen, wenn Punkte ausgewertet werden sollen.
+2. Fragen, Antwortmöglichkeiten und Bewertung passend zu den Lernzielen erstellen.
+3. In der Vorschau prüfen, ob Aufgaben verständlich und mögliche Antworten eindeutig sind.
+4. Die Freigabe auf den vorgesehenen Teilnehmerkreis abstimmen und den Teilnahmelink bereitstellen.
+5. Automatische Bewertungen fachlich prüfen. Freitext, alternative richtige Lösungen und Teilpunkte können eine Nachkorrektur erfordern.
 
+Eine Bewertungsskala sollte nachvollziehbar sein. Für Rangfolgeaufgaben sind unterscheidbare Antwortbausteine hilfreich.
 
-!!! info "Beispiele"
+## Ergebnisse übermitteln
 
-    Hier findest du ein paar LZKs an denen du dich orientieren kannst:
+Wenn eine Übermittlung vereinbart oder für einen konkreten Nachweis nötig ist, genügen die dafür erforderlichen Angaben, beispielsweise Kurs, Datum, Thema und Ergebnis. Empfänger und Übermittlungsweg richten sich nach der Vereinbarung und den Datenschutzregeln des Kurses. Eine pauschale Weitergabe von Teilnehmerlisten an zusätzliche Stellen ist damit nicht verbunden.
 
-    {{ link("LZK Powershell", "https://forms.office.com/e/sJMvUwmKXY")}}
-
-    {{ link("LZK Docker", "https://forms.office.com/e/93C8rsiWuj")}}
-
-    {{ link("LZK C#", "https://forms.office.com/e/r0ik8qzfsh")}}
+Ein externer E-Mail-Generator ist dafür nicht erforderlich. Personenbezogene Ergebnisse gehören nur in dafür freigegebene Systeme.

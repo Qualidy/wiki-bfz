@@ -1,20 +1,23 @@
-site_name: bfz Onboarding
+site_name: bfz – Informationen zur Zusammenarbeit
+site_description: Kompakte Informationen und freiwillige Hilfen für selbstständige Dozenten.
+site_url: https://qualidy.github.io/wiki-bfz/
 
 nav:
   - Hauptseite: index.md
-  - Willkommen: content/1_welcome.md
-  - Login: content/2_login.md
-  - Erklärung zur Ausbildung der Teilnehmer: content/3_erklaerungen_ausbildung.md
-  - Unterricht durchführen: content/4_unterrichtsdurchfuehrung.md
-  - Unterricht planen: content/5_unterrichtsplanung.md
-  - Technische Hinweise: content/6_technische_hinweise.md
-  - Didaktische Hinweise: content/7_didaktische_hinweise.md
-  - Lernzielkontrollen: content/8_lzk.md
-  - Abschließende Hinweise: content/9_abschliessende_hinweise.md
+  - Zusammenarbeit und Unterlagen: content/1_welcome.md
+  - Zugänge und Anmeldung: content/2_login.md
+  - Kursrahmen und Teilnehmer: content/3_erklaerungen_ausbildung.md
+  - Kursdurchführung und Nachweise: content/4_unterrichtsdurchfuehrung.md
+  - Lernziele und Materialien: content/5_unterrichtsplanung.md
+  - Technische Möglichkeiten: content/6_technische_hinweise.md
+  - Didaktische Anregungen: content/7_didaktische_hinweise.md
+  - Lernstand und Nachweise: content/8_lzk.md
+  - Aufträge und Abrechnung: content/9_abschliessende_hinweise.md
 
 
 theme:
   name: material
+  language: de
   palette:
     primary: amber
     accent: indigo
@@ -57,14 +60,9 @@ markdown_extensions:
 extra_css:
   - stylesheets/logo.css
   - stylesheets/grid.css
-  - stylesheets/video_admonition.css
   - stylesheets/python_tutor_admonition.css
   - stylesheets/mermaid.css
 
-extra_javascript:
-  - javascripts/mathjax.js
-  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
-  
 plugins:
     - search
     - macros
@@ -83,4 +81,74 @@ extra:
 watch:
   - tasks
 
-copyright: Copyright &copy; 2025 Qualidy GmbH
+copyright: Copyright &copy; 2026 Qualidy GmbH
+
+# Obsolete screenshots are retained in source, but excluded from the site build.
+exclude_docs: |
+  /assets/allteams.png
+  /assets/besprechung starten.png
+  /assets/beteiligte_personen.png
+  /assets/buecher.png
+  /assets/excalidraw.png
+  /assets/favorites.png
+  /assets/guter_nachweis.png
+  /assets/hand.bmp
+  /assets/hands.png
+  /assets/hintergrund_qualidy.jpg
+  /assets/hintergrund_qualidy.png
+  /assets/hintergrund_qualidy.svg
+  /assets/hintergrund_qualidy.tif
+  /assets/it-berufe-potcast.png
+  /assets/kontrolle_mini.png
+  /assets/kontrolle.png
+  /assets/lms_inhalte.png
+  /assets/lms_trainer_inhalt_inhalt.png
+  /assets/lms_trainer_inhalt.png
+  /assets/lms_trainer.png
+  /assets/logo_org.png
+  /assets/mehr_kacheln.png
+  /assets/microsoft_whiteboard.png
+  /assets/optionen_unterrichtsnachweis.png
+  /assets/profilbild_aendern.png
+  /assets/raume_erstellen_0.png
+  /assets/raume_erstellen_1.png
+  /assets/standorte.png
+  /assets/teams_anpassen_0.png
+  /assets/teams_anpassen_1.png
+  /assets/teams_anpassen_2.png
+  /assets/teams_anpassen_3.png
+  /assets/teams_dateien.png
+  /assets/teams_freigabe.png
+  /assets/Übersicht Ausbildungszeit.png
+  /assets/assets/allteams.png
+  /assets/assets/besprechung starten.png
+  /assets/assets/buecher.png
+  /assets/assets/excalidraw.png
+  /assets/assets/favorites.png
+  /assets/assets/hand.bmp
+  /assets/assets/hands.png
+  /assets/assets/hintergrund_qualidy.jpg
+  /assets/assets/hintergrund_qualidy.png
+  /assets/assets/hintergrund_qualidy.svg
+  /assets/assets/hintergrund_qualidy.tif
+  /assets/assets/it-berufe-potcast.png
+  /assets/assets/kontrolle_mini.png
+  /assets/assets/kontrolle.png
+  /assets/assets/lms_inhalte.png
+  /assets/assets/lms_trainer_inhalt_inhalt.png
+  /assets/assets/lms_trainer_inhalt.png
+  /assets/assets/lms_trainer.png
+  /assets/assets/logo_org.png
+  /assets/assets/mehr_kacheln.png
+  /assets/assets/microsoft_whiteboard.png
+  /assets/assets/optionen_unterrichtsnachweis.png
+  /assets/assets/profilbild_aendern.png
+  /assets/assets/raume_erstellen_0.png
+  /assets/assets/raume_erstellen_1.png
+  /assets/assets/standorte.png
+  /assets/assets/teams_anpassen_0.png
+  /assets/assets/teams_anpassen_1.png
+  /assets/assets/teams_anpassen_2.png
+  /assets/assets/teams_anpassen_3.png
+  /assets/assets/teams_dateien.png
+  /assets/assets/teams_freigabe.png

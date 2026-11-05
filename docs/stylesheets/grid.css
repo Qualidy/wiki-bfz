@@ -1,61 +1,18 @@
-/* Kartenhintergrund mit Farbverlauf und angepasstem Schatten */
-.grid.cards.fancy li {
-    background: linear-gradient(135deg, rgba(255, 193, 7, 0.8), rgba(255, 152, 0, 0.9));
-    color: #ffffff;
-    border-radius: 12px !important;
-    position: relative; /* Ermöglicht die Positionierung von absolut positionierten Kindern */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
-    transition: background 0.3s ease, box-shadow 0.3s ease;
-    overflow: visible; /* Ermöglicht, dass Elemente (z. B. Icons) über die Box hinausragen */
-    padding: 0px !important;
-    border: None !important;
-
+/* Compact cards; readable contrast and a single column on small screens. */
+:root {
+  --md-typeset-a-color: #805600;
 }
-
-/* Hover-Effekt für die Karten */
-.grid.cards.fancy li:hover {
-    background: linear-gradient(135deg, rgba(255, 193, 7, 1), rgba(255, 87, 34, 0.9));
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
+.md-typeset .grid.cards {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr));
 }
-
-/* Icons mittig rechts auf den Karten positionieren */
-.grid.cards.fancy li svg {
-    position: absolute;
-    top: 50%; /* Vertikal mittig */
-    right: 10px; /* Rechtsbündig mit etwas Abstand */
-    transform: translateY(-50%); /* Exakte vertikale Zentrierung */
-    opacity: 0.4; /* Weniger auffällig im normalen Zustand */
-    width: 60px; /* Größe der Icons im normalen Zustand */
-    height: auto;
-    fill: #808080; /* Farbe des Icons auf Grau setzen */
-    transition: opacity 0.3s ease, transform 0.3s ease, width 0.3s ease, fill 0.3s ease; /* Übergangseffekte für Hover */
-    pointer-events: none; /* Keine Interaktion mit dem Icon */
-    z-index: 1; /* Stellt sicher, dass das Icon nicht hinter anderen Elementen liegt */
+.md-typeset .grid.cards > ul > li {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-top: 3px solid #ffb300;
+  border-radius: .4rem;
 }
-
-/* Animation und Vergrößerung bei Hover auf die Karten */
-.grid.cards.fancy li:hover svg {
-    opacity: 1; /* Icons werden undurchsichtig beim Hover */
-    transform: translateY(-50%) scale(1.4) rotate(5deg); /* Leichte Vergrößerung und Rotation im Uhrzeigersinn */
-    width: 80px; /* Vergrößert das Icon dezent */
+.md-typeset .grid.cards > ul > li:hover {
+  border-color: #b57900;
 }
-
-/* Anpassung der Textfarbe und Schriftarten */
-.grid.cards.fancy li a {
-    display: block;
-    color: #ffffff; /* Überschrift bleibt Weiß */
-    font-family: 'Roboto', sans-serif;
-    text-decoration: none;
-    font-weight: bold;
-    padding: 0.8rem;
-}
-
-.grid.cards.fancy li p {
-    color: #ffffff; /* Beschreibung bleibt Weiß */
-    font-family: 'Roboto', sans-serif;
-}
-
-/* Hintergrundfarbe und Helligkeit der Karte bei Hover erhöhen */
-.grid.cards.fancy li:hover a {
-    color: #ffffff; /* Weißer Text bei Hover bleibt bestehen */
+.md-typeset .grid.cards p {
+  margin-bottom: .5em;
 }
